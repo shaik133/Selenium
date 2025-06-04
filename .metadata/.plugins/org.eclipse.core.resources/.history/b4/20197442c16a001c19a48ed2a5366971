@@ -1,0 +1,36 @@
+package javaIntreviewProblems;
+
+public class pedioscii {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		int a=0;
+		int b=1;
+		int i=1;
+		int sum=0;
+		
+		while(i<9)
+		{
+			sum=a+b;
+			a=b;
+			b=sum;
+			System.out.println(sum);
+			i++;
+		}
+		
+		for (int k =1;k<5;k++)
+		{
+			for (int j=1; j<=i; j++)
+			{
+				System.out.print('*');
+				System.out.print('\t');
+			}
+			
+			k++;
+		}
+		System.out.println();
+	}
+
+}

@@ -1,0 +1,43 @@
+package E2E.complete;
+
+import java.io.IOException;
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.Test;
+
+import ObjectRepo.makemyTripLogin;
+
+public class makmyTripLogin extends Init {
+
+	@Test
+	public void loginTest() throws IOException, InterruptedException
+	{
+		driver= invoke();
+		
+		driver.get("https://www.cleartrip.com/");
+		
+//		WebDriverWait w= new WebDriverWait(driver,10);
+//		w.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("li[class*='userLoggedOut']")));
+		//Thread.sleep(10000);
+		makemyTripLogin login = new makemyTripLogin(driver);
+	
+		login.hotels().click();
+		login.search().sendKeys("Koppa,Chikmaglur,Karnataka");
+		Thread.sleep(3000);
+		List<WebElement> options =driver.findElements(By.cssSelector("div[class*='bg-white'] li[class*='ls-reset']"));
+		for(WebElement option : options)
+		{
+			if(option.getText().equalsIgnoreCase("Koppa,Chikmaglur,Karnataka"))
+			{
+				option.click();
+				break;
+			}
+		}
+		login.from().click();
+	}
+}

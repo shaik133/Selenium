@@ -1,0 +1,23 @@
+package javaIntreviewProblems;
+
+import java.util.ArrayList;
+import java.util.stream.Stream;
+
+public class Q5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int a[]= {1,4,2,5,7,4,9,8};
+		ArrayList<Integer> al = new ArrayList<Integer>();
+		
+		for (Object b:a)
+		{
+			al.add( (Integer) b);
+		}
+		
+		al.stream().distinct() .sorted().forEach(s->System.out.println(s));
+		
+	}
+
+}

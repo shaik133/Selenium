@@ -1,0 +1,53 @@
+/**
+ * 
+ */
+package com.trelloapi;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.path.json.JsonPath;
+
+/**
+ * @author Admin
+ *
+ */
+public class ApiTest {
+
+	public String board_name="My Board"+(int)(Math.random()*10);
+	String boardId;
+	JsonPath js;
+	@Test
+	public void createBoard()
+	{
+		RestAssured.baseURI="https://api.trello.com";
+		String createboardResponse=RestAssured.given()
+			.queryParam("key", "d726239b5f1510d74a1a32bc575f01a2")
+			.queryParam("token", "5d6e8b5e8704537e61b5bad9ec99e76e30d4503b0e657f16845cb87a3c88f8b6")
+			.queryParam("name", board_name)
+			.header("Content-Type","application/json")
+		.when().post("/1/boards/")
+		.then().log().all().assertThat().statusCode(200).extract().response().asString();
+		
+		js = new JsonPath(createboardResponse);
+		String url=js.get("shortUrl");
+		boardId= url.split("b/")[1];
+		System.out.println(boardId);
+	}
+	
+	@Test
+	public void getCardList()
+	{
+		RestAssured.baseURI="https://api.trello.com";
+		String cardListResponse=RestAssured.given()
+			.queryParam("key", "d726239b5f1510d74a1a32bc575f01a2")
+			.queryParam("token", "5d6e8b5e8704537e61b5bad9ec99e76e30d4503b0e657f16845cb87a3c88f8b6")
+		.when().get("/1/boards/"+boardId+"/lists")
+		.then().assertThat().statusCode(200).extract().response().asString();
+		
+		js = new JsonPath(cardListResponse);
+		System.out.println(cardListResponse);
+		
+		
+	}
+}

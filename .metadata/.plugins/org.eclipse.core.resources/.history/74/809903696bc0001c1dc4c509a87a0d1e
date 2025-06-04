@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+package com.api.qa.test;
+
+import org.testng.annotations.DataProvider;
+
+/**
+ * @author Admin
+ *
+ */
+public class DataProvide {
+
+	
+	@DataProvider(name="ApiData")
+	public String[][] getData()
+	{
+		String data[][]= new String[2][2];
+		data[0][0]= "isbn";
+		data[0][1]="aisle";
+		data[1][0]="isbn1";
+		data[1][1]="aisle1";
+		return data;
+		
+		
+		
+	}
+}

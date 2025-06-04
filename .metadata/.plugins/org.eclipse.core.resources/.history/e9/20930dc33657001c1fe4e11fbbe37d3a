@@ -1,0 +1,33 @@
+import java.util.Optional;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.devtools.DevTools;
+import org.openqa.selenium.devtools.v94.fetch.model.AuthChallengeResponse.Response;
+import org.openqa.selenium.devtools.v94.network.Network;
+
+public class NetworkStatus {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Admin\\Documents\\Selenium\\chromedriver.exe");
+		ChromeDriver driver = new ChromeDriver();
+	DevTools devTools=	driver.getDevTools();
+	devTools.createSession();
+	
+	devTools.send(Network.enable(Optional.empty(), Optional.empty(), Optional.empty()));
+	
+	devTools.addListener(Network.responseReceived(), response ->
+	
+	{
+		org.openqa.selenium.devtools.v94.network.model.Response res=response.getResponse();
+	if (res.getStatus().toString().startsWith("4")) {
+		System.out.println(res.getUrl()+"is failing with "+res.getStatus());
+	}
+	}
+			
+			);
+		
+		
+	}
+
+}

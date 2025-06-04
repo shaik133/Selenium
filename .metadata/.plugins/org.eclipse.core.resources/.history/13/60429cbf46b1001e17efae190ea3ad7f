@@ -1,0 +1,32 @@
+package java_logics;
+
+import java.util.Arrays;
+
+public class MissingNumInArray {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int arr[]= {1,2,3,4,6};
+//		Arrays.sort(arr);
+//		for(int k=0;k<arr.length;k++) {
+//			System.out.println(arr[k]);
+//		}
+//		
+//		
+//		for(int i=0;i<arr.length;i++) {
+//			for(int j=i+1;j<arr.length;j++) {
+//				if(arr[i]==arr[j]) {
+//					System.out.println(arr[i]);
+//				}
+//			}
+//		}
+		int sum=0;
+		
+		for(int i=0;i<arr.length;i++) {
+			sum=sum+i;
+		}
+		System.out.println(sum);
+	}
+
+}

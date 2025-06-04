@@ -1,0 +1,12 @@
+com\my_store\qa\tests\PaymentPageTest.class
+com\my_store\qa\tests\AddressPageTest.class
+com\my_store\qa\tests\AuthenticationPageTest.class
+com\my_store\qa\tests\ShippingPageTest.class
+com\my_store\qa\tests\MyStoreSearchPageTest.class
+com\my_store\qa\tests\CreateAccountPageTest.class
+com\qaacademy\qa\tests\QaAcademyLandingPageTest.class
+com\my_store\qa\tests\ProductPageTest.class
+com\my_store\qa\tests\OrderPageTest.class
+com\my_store\qa\tests\MyStoreIndexPageTest.class
+com\my_store\qa\tests\OrderConfirmationPageTest.class
+com\my_store\qa\tests\SummuryPageTest.class

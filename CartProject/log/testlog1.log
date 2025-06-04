@@ -1,0 +1,105 @@
+2022-04-02 15:47:26,739 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 15:47:38,757 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - validating logo
+2022-04-02 15:47:39,668 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 15:47:47,374 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - Valiating title
+2022-04-02 16:10:20,152 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:10:40,193 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - validating logo
+2022-04-02 16:10:41,178 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:10:51,171 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - Valiating title
+2022-04-02 16:11:19,789 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:11:31,562 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - validating logo
+2022-04-02 16:11:32,320 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:11:39,190 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - Valiating title
+2022-04-02 16:11:40,129 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:11:48,374 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - selecting the items to add to cart
+2022-04-02 16:12:33,510 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:12:51,131 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:13:01,874 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - selecting the items to add to cart
+2022-04-02 16:16:12,764 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:16:23,809 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - selecting the items to add to cart
+2022-04-02 16:17:18,313 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:17:28,056 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - selecting the items to add to cart
+2022-04-02 16:20:23,233 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:20:34,182 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - selecting the items to add to cart
+2022-04-02 16:23:42,080 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:23:53,224 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - validating logo
+2022-04-02 16:23:53,779 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:24:00,929 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - Valiating title
+2022-04-02 16:24:01,410 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:24:14,172 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - selecting the items to add to cart
+2022-04-02 16:26:41,105 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:26:52,443 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - validating logo
+2022-04-02 16:26:53,530 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:27:01,245 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - Valiating title
+2022-04-02 16:27:01,844 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:27:08,645 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - selecting the items to add to cart
+2022-04-02 16:31:28,356 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:31:39,616 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - selecting the items to add to cart
+2022-04-02 16:40:01,693 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:40:20,032 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - selecting the items to add to cart
+2022-04-02 16:40:23,470 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - navigating to cart by clicking cart button
+2022-04-02 16:43:23,068 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:43:33,932 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - selecting the items to add to cart
+2022-04-02 16:43:36,837 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - navigating to cart by clicking cart button
+2022-04-02 16:44:03,673 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:44:19,277 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - selecting the items to add to cart
+2022-04-02 16:44:22,778 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - navigating to cart by clicking cart button
+2022-04-02 16:47:16,404 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - browser is getting launched
+2022-04-02 16:47:30,868 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - selecting the items to add to cart
+2022-04-02 16:47:34,618 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - navigating to cart by clicking cart button
+2022-04-02 16:47:34,830 [main] INFO com.cartproject.qa.tests.GreenCartHomePageTest - clciking on the proceed to check out button
+2022-04-02 17:17:29,936 [main] INFO com.cartproject.qa.tests.CartPageTest - validating logo present or not
+2022-04-02 17:33:32,128 [main] INFO com.cartproject.qa.tests.CartPageTest - validating logo present or not
+2022-04-02 17:33:34,104 [main] INFO com.cartproject.qa.tests.CartPageTest - validating products in cart
+2022-04-02 17:39:30,517 [main] INFO com.cartproject.qa.tests.CartPageTest - validating logo present or not
+2022-04-02 17:39:31,449 [main] INFO com.cartproject.qa.tests.CartPageTest - validating products in cart
+2022-04-02 17:39:31,837 [main] INFO com.cartproject.qa.tests.CartPageTest - validating quantity of items present
+2022-04-02 17:54:42,085 [main] INFO com.cartproject.qa.tests.CartPageTest - validating logo present or not
+2022-04-02 17:58:30,163 [main] INFO com.cartproject.qa.tests.CartPageTest - validating logo present or not
+2022-04-02 17:58:31,306 [main] INFO com.cartproject.qa.tests.CartPageTest - validating products in cart
+2022-04-02 17:58:31,884 [main] INFO com.cartproject.qa.tests.CartPageTest - validating quantity of items present
+2022-04-02 17:58:32,334 [main] INFO com.cartproject.qa.tests.CartPageTest - validting all
+2022-04-02 18:03:30,946 [main] INFO com.cartproject.qa.tests.CartPageTest - validating logo present or not
+2022-04-02 18:03:31,734 [main] INFO com.cartproject.qa.tests.CartPageTest - validating products in cart
+2022-04-02 18:03:32,061 [main] INFO com.cartproject.qa.tests.CartPageTest - validating quantity of items present
+2022-04-02 18:03:32,267 [main] INFO com.cartproject.qa.tests.CartPageTest - validting all
+2022-04-02 18:06:16,347 [main] INFO com.cartproject.qa.tests.CartPageTest - validating logo present or not
+2022-04-02 18:07:57,318 [main] INFO com.cartproject.qa.tests.CartPageTest - validating logo present or not
+2022-04-02 18:09:35,956 [main] INFO com.cartproject.qa.tests.CartPageTest - validating logo present or not
+2022-04-02 18:11:56,829 [main] INFO com.cartproject.qa.tests.CartPageTest - validating logo present or not
+2022-04-02 18:11:57,560 [main] INFO com.cartproject.qa.tests.CartPageTest - validating products in cart
+2022-04-02 18:11:57,971 [main] INFO com.cartproject.qa.tests.CartPageTest - validating quantity of items present
+2022-04-02 18:22:43,311 [main] INFO com.cartproject.qa.tests.CartPageTest - validating logo present or not
+2022-04-02 18:22:44,466 [main] INFO com.cartproject.qa.tests.CartPageTest - validating products in cart
+2022-04-02 18:22:45,038 [main] INFO com.cartproject.qa.tests.CartPageTest - validating quantity of items present
+2022-04-02 18:22:45,478 [main] INFO com.cartproject.qa.tests.CartPageTest - validating the Total price of products in cart
+2022-04-02 18:27:12,643 [main] INFO com.cartproject.qa.tests.CartPageTest - validating logo present or not
+2022-04-02 18:27:13,749 [main] INFO com.cartproject.qa.tests.CartPageTest - validating products in cart
+2022-04-02 18:27:14,272 [main] INFO com.cartproject.qa.tests.CartPageTest - validating quantity of items present
+2022-04-02 18:27:14,649 [main] INFO com.cartproject.qa.tests.CartPageTest - validating the Total price of products in cart
+2022-04-02 18:27:15,064 [main] INFO com.cartproject.qa.tests.CartPageTest - validating the Total amounts of products in cart
+2022-04-02 18:30:48,277 [main] INFO com.cartproject.qa.tests.CartPageTest - validating logo present or not
+2022-04-02 18:30:49,419 [main] INFO com.cartproject.qa.tests.CartPageTest - validating products in cart
+2022-04-02 18:30:49,961 [main] INFO com.cartproject.qa.tests.CartPageTest - validating quantity of items present
+2022-04-02 18:30:50,390 [main] INFO com.cartproject.qa.tests.CartPageTest - validating the Total price of products in cart
+2022-04-02 18:30:50,803 [main] INFO com.cartproject.qa.tests.CartPageTest - validating the Total amounts of products in cart
+2022-04-03 13:19:22,597 [main] INFO com.cartproject.qa.tests.CartPageTest - promo code is enetering
+2022-04-03 13:19:22,858 [main] INFO com.cartproject.qa.tests.CartPageTest - applying promo code by clicking btn
+2022-04-03 13:24:28,834 [main] INFO com.cartproject.qa.tests.CartPageTest - promo code is enetering
+2022-04-03 13:24:29,140 [main] INFO com.cartproject.qa.tests.CartPageTest - applying promo code by clicking btn
+2022-04-03 13:35:47,382 [main] INFO com.cartproject.qa.tests.CartPageTest - promo code is enetering
+2022-04-03 13:35:50,346 [main] INFO com.cartproject.qa.tests.CartPageTest - applying promo code by clicking btn
+2022-04-03 13:52:39,406 [main] INFO com.cartproject.qa.tests.CartPageTest - promo code is enetering
+2022-04-03 13:52:41,103 [main] INFO com.cartproject.qa.tests.CartPageTest - applying promo code by clicking btn
+2022-04-03 13:52:41,324 [main] INFO com.cartproject.qa.tests.CartPageTest - checking the returned text after apply btn
+2022-04-03 13:57:29,056 [main] INFO com.cartproject.qa.tests.CartPageTest - promo code is enetering
+2022-04-03 13:57:29,237 [main] INFO com.cartproject.qa.tests.CartPageTest - applying promo code by clicking btn
+2022-04-03 13:57:29,341 [main] INFO com.cartproject.qa.tests.CartPageTest - checking the returned text after apply btn
+2022-04-03 13:58:30,853 [main] INFO com.cartproject.qa.tests.CartPageTest - promo code is enetering
+2022-04-03 13:58:31,387 [main] INFO com.cartproject.qa.tests.CartPageTest - applying promo code by clicking btn
+2022-04-03 13:58:31,691 [main] INFO com.cartproject.qa.tests.CartPageTest - checking the returned text after apply btn
+2022-04-03 14:01:55,953 [main] INFO com.cartproject.qa.tests.CartPageTest - promo code is enetering
+2022-04-03 14:01:56,068 [main] INFO com.cartproject.qa.tests.CartPageTest - applying promo code by clicking btn
+2022-04-03 14:01:56,200 [main] INFO com.cartproject.qa.tests.CartPageTest - checking the returned text after apply btn
+2022-04-03 14:03:27,284 [main] INFO com.cartproject.qa.tests.CartPageTest - promo code is enetering
+2022-04-03 14:03:27,592 [main] INFO com.cartproject.qa.tests.CartPageTest - applying promo code by clicking btn

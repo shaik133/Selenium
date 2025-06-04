@@ -1,0 +1,214 @@
+2022-04-04 18:05:25,922 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:05:26,569 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the title of the page
+2022-04-04 18:05:44,734 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:05:44,742 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the logo of the page
+2022-04-04 18:06:10,659 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:06:11,157 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - item passed in search box
+2022-04-04 18:06:31,363 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:06:31,373 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - submitting the search option
+2022-04-04 18:06:33,481 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - validating the search page title
+2022-04-04 18:17:39,112 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:17:39,318 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the title of the page
+2022-04-04 18:18:03,138 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:18:03,147 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the logo of the page
+2022-04-04 18:18:24,418 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:18:24,892 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - item passed in search box
+2022-04-04 18:18:35,477 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:18:35,485 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - submitting the search option
+2022-04-04 18:18:35,746 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - validating the search page title
+2022-04-04 18:20:14,427 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:20:15,299 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - item passed in search box
+2022-04-04 18:22:08,585 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:22:10,365 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - item passed in search box
+2022-04-04 18:24:56,617 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:24:56,731 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the title of the page
+2022-04-04 18:25:21,206 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:25:21,216 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the logo of the page
+2022-04-04 18:26:06,097 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:26:10,738 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - item passed in search box
+2022-04-04 18:27:26,129 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:27:26,142 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - submitting the search option
+2022-04-04 18:27:28,274 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - validating the search page title
+2022-04-04 18:31:12,590 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:31:12,799 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the title of the page
+2022-04-04 18:31:32,867 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:31:32,876 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the logo of the page
+2022-04-04 18:32:00,086 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:32:00,983 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - item passed in search box
+2022-04-04 18:32:00,985 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - submitting the search option
+2022-04-04 18:32:12,344 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - validating the search page title
+2022-04-04 18:36:48,086 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:36:48,467 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - submitting the search option
+2022-04-04 18:36:53,116 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - validating the search page title
+2022-04-04 18:38:11,399 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:38:11,891 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the title of the page
+2022-04-04 18:38:38,779 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:38:38,791 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the logo of the page
+2022-04-04 18:39:04,666 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-04 18:39:05,678 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - item passed in search box
+2022-04-04 18:39:05,681 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - submitting the search option
+2022-04-04 18:39:14,160 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - validating the search page title
+2022-04-04 20:22:57,468 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Browser is launched
+2022-04-04 20:23:03,464 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Validating Title of the page
+2022-04-04 20:23:31,400 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Browser is launched
+2022-04-04 20:23:40,891 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - selecting the option
+2022-04-04 20:24:20,551 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Browser is launched
+2022-04-04 20:24:27,260 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - clicking on the Printed Summer Image
+2022-04-04 20:24:34,061 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Validating the product page title
+2022-04-04 21:03:46,881 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-04 21:04:04,458 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is closed
+2022-04-04 21:04:25,787 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-04 21:04:48,351 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is closed
+2022-04-04 21:06:47,790 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-04 21:13:39,562 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-04 21:14:28,858 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-04 21:18:42,513 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-04 21:20:36,141 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-04 21:21:32,170 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-04 21:28:32,761 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-04 21:30:27,337 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-04 21:53:37,914 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-04 22:19:28,800 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-04 22:39:39,944 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-04 22:45:28,316 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-05 13:18:22,754 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-05 13:18:59,044 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-05 13:21:46,026 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-05 13:23:12,399 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-05 13:23:41,618 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-05 15:18:30,359 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 15:21:03,584 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 15:22:59,730 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 15:24:27,938 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 15:25:42,603 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 15:26:43,468 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 15:28:10,275 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 15:32:56,985 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 15:33:19,333 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 15:34:18,598 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 15:34:59,481 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 15:38:34,466 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 15:39:43,688 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-05 15:41:00,648 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-05 15:41:00,777 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the title of the page
+2022-04-05 15:41:16,486 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-05 15:41:16,497 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the logo of the page
+2022-04-05 15:41:49,362 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-05 15:41:55,202 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - item passed in search box
+2022-04-05 15:41:55,203 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - submitting the search option
+2022-04-05 15:41:58,913 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - validating the search page title
+2022-04-05 15:43:02,005 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 15:50:14,370 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 16:03:43,292 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 16:18:16,222 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 16:18:34,423 - com.my_store.qa.tests.OrderPageTest -INFO - Validating logo of the product
+2022-04-05 16:18:34,671 - com.my_store.qa.tests.OrderPageTest -INFO - Validating the describtion of the product
+2022-04-05 16:18:34,788 - com.my_store.qa.tests.OrderPageTest -INFO - Validating the availability of product
+2022-04-05 16:18:35,052 - com.my_store.qa.tests.OrderPageTest -INFO - Total price of the product and expected price of the product is valiated
+2022-04-05 16:18:35,054 - com.my_store.qa.tests.OrderPageTest -INFO - click proceed to check out button
+2022-04-05 16:18:38,883 - com.my_store.qa.tests.OrderPageTest -INFO - Validating the title of the authentication page
+2022-04-05 18:42:36,874 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Browser is launched
+2022-04-05 18:42:44,443 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Validating Title of the page
+2022-04-05 18:42:45,865 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Browser is closed
+2022-04-05 18:42:59,540 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Browser is launched
+2022-04-05 18:43:03,650 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - selecting the option
+2022-04-05 18:43:11,741 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Browser is closed
+2022-04-05 18:43:30,780 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Browser is launched
+2022-04-05 18:43:33,351 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - clicking on the Printed Summer Image
+2022-04-05 18:43:37,710 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Validating the product page title
+2022-04-05 18:43:38,773 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Browser is closed
+2022-04-05 18:43:53,706 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-05 18:44:19,386 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-05 18:44:19,393 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the title of the page
+2022-04-05 18:44:20,907 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Browser is closed
+2022-04-05 18:44:36,402 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-05 18:44:36,418 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the logo of the page
+2022-04-05 18:44:38,158 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Browser is closed
+2022-04-05 18:44:58,926 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-05 18:44:59,295 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - item passed in search box
+2022-04-05 18:44:59,297 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - submitting the search option
+2022-04-05 18:45:04,925 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - validating the search page title
+2022-04-05 18:45:11,651 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Browser is closed
+2022-04-05 18:45:46,401 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-05 18:46:02,923 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is closed
+2022-04-05 18:46:29,616 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched
+2022-04-05 18:46:48,671 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is closed
+2022-04-05 21:12:39,966 - com.my_store.qa.tests.AuthenticationPageTest -INFO - Browser is launched
+2022-04-05 21:14:13,342 - com.my_store.qa.tests.AuthenticationPageTest -INFO - Browser is launched
+2022-04-05 21:16:30,060 - com.my_store.qa.tests.AuthenticationPageTest -INFO - Browser is launched
+2022-04-05 21:18:23,482 - com.my_store.qa.tests.AuthenticationPageTest -INFO - Browser is launched
+2022-04-05 21:18:58,500 - com.my_store.qa.tests.AuthenticationPageTest -INFO - Enter email address
+2022-04-05 21:18:59,000 - com.my_store.qa.tests.AuthenticationPageTest -INFO - clicking on the submit btn
+2022-04-05 21:19:00,609 - com.my_store.qa.tests.AuthenticationPageTest -INFO - Browser is closed
+2022-04-05 22:32:22,902 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-05 22:32:48,954 - com.my_store.qa.tests.CreateAccountPageTest -INFO - passing zip, mobile and address aliase details
+2022-04-05 22:32:50,416 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is closed
+2022-04-05 22:38:26,831 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-05 22:38:53,175 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-05 22:38:53,590 - com.my_store.qa.tests.CreateAccountPageTest -INFO - selecting DOB details
+2022-04-05 22:42:27,165 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-05 22:43:30,185 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-05 22:44:52,158 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-05 22:45:36,156 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-05 22:48:25,717 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-05 22:49:31,963 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-05 22:50:08,855 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-05 22:51:16,330 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-05 22:51:49,360 - com.my_store.qa.tests.CreateAccountPageTest -INFO - passing address details
+2022-04-05 22:51:49,754 - com.my_store.qa.tests.CreateAccountPageTest -INFO - selecting state and country details
+2022-04-05 22:57:53,763 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-05 22:58:15,211 - com.my_store.qa.tests.CreateAccountPageTest -INFO - passing address details
+2022-04-05 22:58:19,093 - com.my_store.qa.tests.CreateAccountPageTest -INFO - selecting state and country details
+2022-04-05 23:03:34,076 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-05 23:04:48,028 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-05 23:05:16,091 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-05 23:05:19,132 - com.my_store.qa.tests.CreateAccountPageTest -INFO - selecting DOB details
+2022-04-05 23:05:38,940 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-05 23:09:23,284 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-05 23:09:54,362 - com.my_store.qa.tests.CreateAccountPageTest -INFO - selecting DOB details
+2022-04-05 23:11:50,611 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-05 23:12:13,240 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-05 23:12:17,432 - com.my_store.qa.tests.CreateAccountPageTest -INFO - selecting DOB details
+2022-04-06 12:24:01,896 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-06 12:24:27,182 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-06 12:32:44,023 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-06 12:33:19,766 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-06 12:40:51,360 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-06 12:41:35,450 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-06 12:42:57,890 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-06 17:15:38,968 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-06 17:17:05,155 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-06 17:17:35,977 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-06 17:20:59,735 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-06 17:21:32,411 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-06 17:27:52,706 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-06 17:28:34,243 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-06 18:00:21,615 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-06 18:01:12,373 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-06 18:06:45,485 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-06 18:07:40,759 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-06 18:08:49,888 - com.my_store.qa.tests.CreateAccountPageTest -INFO - Browser is launched
+2022-04-06 18:09:25,914 - com.my_store.qa.tests.CreateAccountPageTest -INFO - sending the personal details
+2022-04-07 13:42:14,246 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Browser is launched
+2022-04-07 13:42:27,965 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Validating Title of the page
+2022-04-07 13:43:08,260 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Browser is launched
+2022-04-07 13:43:10,740 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - selecting the option
+2022-04-07 13:43:46,754 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Browser is launched
+2022-04-07 13:44:02,149 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - clicking on the Printed Summer Image
+2022-04-07 13:44:10,370 - com.my_store.qa.tests.MyStoreSearchPageTest -INFO - Validating the product page title
+2022-04-07 13:45:03,676 - com.my_store.qa.tests.OrderPageTest -INFO - Browser is launched
+2022-04-07 13:45:41,516 - com.my_store.qa.tests.OrderPageTest -INFO - Validating logo of the product
+2022-04-07 13:45:41,661 - com.my_store.qa.tests.OrderPageTest -INFO - Validating the describtion of the product
+2022-04-07 13:45:41,854 - com.my_store.qa.tests.OrderPageTest -INFO - Validating the availability of product
+2022-04-07 13:45:42,199 - com.my_store.qa.tests.OrderPageTest -INFO - Total price of the product and expected price of the product is valiated
+2022-04-07 13:45:42,200 - com.my_store.qa.tests.OrderPageTest -INFO - click proceed to check out button
+2022-04-07 13:45:46,484 - com.my_store.qa.tests.OrderPageTest -INFO - Validating the title of the authentication page
+2022-04-07 13:46:43,013 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-07 13:46:43,157 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the title of the page
+2022-04-07 13:47:19,895 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-07 13:47:19,900 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - Validating the logo of the page
+2022-04-07 13:47:55,731 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - browser is launched
+2022-04-07 13:47:56,457 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - item passed in search box
+2022-04-07 13:47:56,458 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - submitting the search option
+2022-04-07 13:48:06,781 - com.my_store.qa.tests.MyStoreIndexPageTest -INFO - validating the search page title
+2022-04-07 13:48:49,335 - com.my_store.qa.tests.ProductPageTest -INFO - Browser is launched

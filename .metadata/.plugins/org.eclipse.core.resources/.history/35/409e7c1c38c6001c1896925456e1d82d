@@ -1,0 +1,30 @@
+/**
+ * 
+ */
+package com.trelloapi;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+
+/**
+ * @author Admin
+ *
+ */
+public class ApiTest {
+
+	public String board_name="My Board"+(int)(Math.random()*10);
+	
+	@Test
+	public void createBoard()
+	{
+		RestAssured.baseURI="https://api.trello.com";
+		RestAssured.given()
+			.queryParam("key", "d726239b5f1510d74a1a32bc575f01a2")
+			.queryParam("token", "5d6e8b5e8704537e61b5bad9ec99e76e30d4503b0e657f16845cb87a3c88f8b6")
+			.queryParam("name", board_name)
+			.header("Content-Type","application/json")
+		.when().post("/1/boards/")
+		.then().log().all().assertThat().statusCode(200);
+	}
+}

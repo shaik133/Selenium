@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;extent-config.xml&apos; to &apos;Orange_CRM&apos;&#x0D;&#x0A;- Original project: &apos;CRMFrameWork&apos;&#x0D;&#x0A;- Destination element: &apos;Orange_CRM&apos;&#x0D;&#x0A;- Original element: &apos;extent-config.xml&apos;" description="Copy file" element1="extent-config.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1661255730893" target="/Orange_CRM" units="0" version="1.0"/>
+</session>

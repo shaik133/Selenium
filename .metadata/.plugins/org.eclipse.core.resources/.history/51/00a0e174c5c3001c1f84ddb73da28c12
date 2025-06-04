@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+package PojoPackage;
+
+/**
+ * @author Admin
+ *
+ */
+public class PojoClass {
+
+	private String page;
+	private String per_page;
+	private String totalrecord;
+	private String total_pages;
+	private String data;
+}

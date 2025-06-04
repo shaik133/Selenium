@@ -1,0 +1,73 @@
+/**
+ * 
+ */
+package PojoPackage;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.path.json.JsonPath;
+import  static org.hamcrest.Matchers.*;
+
+/**
+ * @author Admin
+ *
+ */
+public class LibraryAPITests {
+
+	String id;
+	@Test(priority=1)
+	public void addBook()
+	{
+//Parameterizing		
+		RestAssured.baseURI="http://216.10.245.166";
+		String Response=RestAssured.given().body(JsonBody.JsonAddbookBody("jafar1", "1121"))
+		.when().post("Library/Addbook.php")
+		.then().log().all().extract().response().asString();
+		JsonPath js = new JsonPath(Response);
+		 id=js.getString("ID");
+	}
+
+	
+//DataDriven
+@Test(priority=2, dataProvider="data",dataProviderClass=JsonBody.class)
+public void DataDrivenAddBook(String isbn,String aisle)
+{
+	RestAssured.baseURI="http://216.10.245.166";
+	RestAssured.given().body(JsonBody.JsonAddbookBody(isbn,aisle))
+	.when().post("Library/Addbook.php")
+	.then().log().all().extract().response().asString();
+}
+	
+@Test(priority=3)
+public void getBookByAuthor()
+{
+	RestAssured.baseURI="http://216.10.245.166";
+	RestAssured.given().queryParam("AuthorName", "John foe")
+	.when().get("/Library/GetBook.php")
+	.then().log().all().assertThat().statusCode(200);
+}
+	
+@Test
+public void getBookById()
+{
+	RestAssured.baseURI="http://216.10.245.166";
+	RestAssured.given().queryParam("ID", id)
+	.when().get("/Library/GetBook.php")
+	.then().log().all().assertThat().statusCode(200);
+}
+
+@Test
+public void deleteBook()
+{
+	RestAssured.baseURI="http://216.10.245.166";
+	RestAssured.given().body("{\r\n"
+			+ " \r\n"
+			+ "\"ID\" : \"jafar11121\"\r\n"
+			+ " \r\n"
+			+ "} \r\n"
+			+ "")
+	.when().post("/Library/DeleteBook.php")
+	.then().log().all().assertThat().body("msg",equalTo("book is successfully deleted"));
+}
+}

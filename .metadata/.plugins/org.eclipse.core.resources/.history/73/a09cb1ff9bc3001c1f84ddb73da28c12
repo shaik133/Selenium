@@ -1,0 +1,38 @@
+/**
+ * 
+ */
+package PojoPackage;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+
+/**
+ * @author Admin
+ *
+ */
+public class LibraryAPITests {
+
+	@Test(priority=1)
+	public void addBook()
+	{
+//Parameterizing		
+		RestAssured.baseURI="http://216.10.245.166";
+		RestAssured.given().body(JsonBody.JsonAddbookBody("jafar", "121"))
+		.when().post("Library/Addbook.php")
+		.then().log().all().extract().response().asString();
+	}
+
+	
+//DataDriven
+@Test(priority=2, dataProvider="data",dataProviderClass=JsonBody.class)
+public void DataDrivenAddBook(String isbn,String aisle)
+{
+	RestAssured.baseURI="http://216.10.245.166";
+	RestAssured.given().body(JsonBody.JsonAddbookBody(isbn,aisle))
+	.when().post("Library/Addbook.php")
+	.then().log().all().extract().response().asString();
+}
+	
+	
+}

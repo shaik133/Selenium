@@ -1,0 +1,17 @@
+package data.excellDriven;
+
+import java.io.IOException;
+import java.util.ArrayList;
+
+import org.testng.annotations.Test;
+
+public class dataDriven1 {
+
+	@Test
+	public void getdata() throws IOException
+	{
+		excellData1 data = new excellData1();
+	ArrayList a= 	data.getData("letty");
+	System.out.println(a);
+	}
+}

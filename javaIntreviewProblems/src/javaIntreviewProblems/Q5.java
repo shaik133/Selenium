@@ -1,0 +1,48 @@
+package javaIntreviewProblems;
+
+import java.util.ArrayList;
+import java.util.stream.Stream;
+//-- Sorting the array------------
+public class Q5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int a[]= {1,4,2,5,7,4,9,8};
+		ArrayList<Integer> al = new ArrayList<Integer>();
+		
+		for (Object b:a)
+		{
+			al.add( (Integer) b);
+		}
+		
+		al.stream().distinct() .sorted().forEach(s->System.out.println(s));
+		
+		
+		// ----------------Swaping the variable-------------
+		
+		int e =4;
+		int b= 5;
+		
+		int temp;
+		
+		temp=e;  //e value is stored in temp
+		e=b;  // b value swaped to e
+		b=temp;  //temp value is now swaped to b
+		System.out.println(e);
+		System.out.println(b);
+	// another way to swap variable without temp variable
+		int q=5;
+		int h=2;
+		
+		q=q+h; //7
+		h=q-h; //5
+		q=q-h;// 2
+		
+		System.out.println(h);
+		System.out.println(q);
+		
+		
+	}
+
+}

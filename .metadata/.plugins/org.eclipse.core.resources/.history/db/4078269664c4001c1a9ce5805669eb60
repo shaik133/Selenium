@@ -1,0 +1,57 @@
+/**
+ * 
+ */
+package pojoClass_Serializaton;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+
+/**
+ * @author Admin
+ *
+ */
+public class AddPlaceTest extends AddPlaceApi{
+	@Test
+	
+	public void addPayload()
+	{
+		SerializingJPlParent	js = new SerializingJPlParent();
+		
+		Location_payload lp = new Location_payload();
+		lp.setLat(35.25);
+		lp.setLng(28.14);
+		js.setLocation(lp);
+		
+		js.setAccuracy(50);
+		js.setAddress("29, side layout, cohen 09");
+		js.setLanguage("english");
+		js.setName("SJS");
+		js.setPhone_number("(+91) 983 893 3937");
+		
+		List<String> list = new ArrayList<String>();
+		list.add("shoe park");
+		list.add("shop");
+		
+		js.setTypes(list);
+		
+		js.setWebsite("http://google.com");
+		
+		RestAssured.baseURI="https://rahulshettyacademy.com";
+		RestAssured.given().queryParam("key", "qaclick123").body(js)
+		.when().post("/maps/api/place/add/json")
+		.then().log().all().assertThat().statusCode(200);
+	}
+//	@Test
+//	public void addPlaceTest()
+//	{
+//		RestAssured.baseURI="https://rahulshettyacademy.com";
+//		RestAssured.given().queryParam("key", "qaclick123").body(js)
+//		.when().post("/maps/api/place/add/json")
+//		.then().log().all().assertThat().statusCode(200);
+//		
+//	}
+}

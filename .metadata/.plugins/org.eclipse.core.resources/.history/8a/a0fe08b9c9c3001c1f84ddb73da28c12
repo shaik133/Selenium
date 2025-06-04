@@ -1,0 +1,24 @@
+/**
+ * 
+ */
+package PojoPackage;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.parsing.Parser;
+
+/**
+ * @author Admin
+ *
+ */
+public class SampleApi {
+
+	@Test
+	public void getTourist()
+	{
+		RestAssured.baseURI="http://restapi.adequateshop.com";
+	PojoClass_Parent pj	=RestAssured.given().queryParam("page", "1").expect().defaultParser(Parser.JSON)
+		.when().get("/api/Tourist").as(PojoClass_Parent.class);
+	}
+}

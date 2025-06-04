@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.trelloapi;
+
+/**
+ * @author Admin
+ *
+ */
+public class ApiTest {
+
+	
+	@Test
+	public void createBoard()
+	{
+		
+	}
+}

@@ -1,0 +1,41 @@
+package E2E.complete;
+
+import java.io.IOException;
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.Test;
+
+import ObjectRepo.makemyTripLogin;
+
+public class makmyTripLogin extends Init {
+
+	@Test
+	public void loginTest() throws IOException, InterruptedException
+	{
+		driver= invoke();
+		
+		driver.get("https://www.path2usa.com/travel-companions");
+		
+//		WebDriverWait w= new WebDriverWait(driver,10);
+//		w.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("li[class*='userLoggedOut']")));
+		//Thread.sleep(10000);
+		makemyTripLogin login = new makemyTripLogin(driver);
+	
+			login.travelFrom("Ben");
+//	List<WebElement>	options=	driver.findElements(By.cssSelector("div[id='ajax_listOfOptions'] div[class*='optionDiv']"));
+//		for (WebElement option : options)
+//		{
+//			if(option.getText().equalsIgnoreCase("Bengaluru International Airport   (BLR) Bangalore"))
+//			{
+//				option.click();
+//				break;
+//			}
+//			
+//		}
+}
+}

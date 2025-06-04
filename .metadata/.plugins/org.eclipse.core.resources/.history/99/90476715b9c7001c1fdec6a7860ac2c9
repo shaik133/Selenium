@@ -1,0 +1,45 @@
+/**
+ * 
+ */
+package putPayload;
+
+/**
+ * @author Admin
+ *
+ */
+public class PutPayload {
+
+	public static PutPayload payload;
+	
+	private String place_id;
+	private String address;
+	private String key;
+	
+	public String getPlace_id() {
+		return place_id;
+	}
+	public void setPlace_id(String place_id) {
+		this.place_id = place_id;
+	}
+	public String getAddress() {
+		return address;
+	}
+	public void setAddress(String address) {
+		this.address = address;
+	}
+	public String getKey() {
+		return key;
+	}
+	public void setKey(String key) {
+		this.key = key;
+	}
+
+	
+	public static void payload()
+	{
+		 payload= new PutPayload();
+		 payload.setAddress("my address");
+		 payload.setKey("qaclick123");
+		 payload.setPlace_id("8d2573bdf6ceec0e474c5f388fa917fb");
+	}
+}

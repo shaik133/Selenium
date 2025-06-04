@@ -1,0 +1,15 @@
+Feature: Trello board creation
+
+Scenario: creation of board
+
+Given user sends key, token and name
+When user calls api by hitting post request
+Then user validate success response with status code 200
+And user validate success response with "scope" "APP"
+
+
+Scenario: update place details
+Given user passing update payload to call the api using key
+When Put method is sent
+Then user verifies response having status 200
+And user verifies response having "address" "name" 

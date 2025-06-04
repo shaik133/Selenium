@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+package com.api.qa.test;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import utility.Body;
+import static org.hamcrest.Matchers.*;
+
+/**
+ * @author Admin
+ *
+ */
+public class LibraryApi {
+
+	@Test
+	public void addBook()
+	{
+		RestAssured.baseURI="http://216.10.245.166";
+		RestAssured.given().body(Body.addBookLibraryPayload()).header("Content-Type","application/json")
+		.when().post("Library/Addbook.php")
+		.then().log().all().assertThat().body("msg", equalTo())
+	}
+}

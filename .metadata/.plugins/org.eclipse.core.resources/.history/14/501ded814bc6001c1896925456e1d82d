@@ -1,0 +1,105 @@
+/**
+ * 
+ */
+package com.trelloapi;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.path.json.JsonPath;
+import io.restassured.response.Response;
+import static org.hamcrest.Matchers.*;
+
+/**
+ * @author Admin
+ *
+ */
+public class ApiTest {
+
+	public String board_name="My Board"+(int)(Math.random()*10);
+	public String cardName="My card"+(int)(Math.random()*10);
+	public String updateCardName="My card"+(int)(Math.random()*10);
+	public String boardId;
+	public JsonPath js;
+	public String idOfToDo;
+	
+	@Test(priority=1)
+	public void createBoard()
+	{
+		RestAssured.baseURI="https://api.trello.com";
+		String createboardResponse=RestAssured.given()
+			.queryParam("key", "d726239b5f1510d74a1a32bc575f01a2")
+			.queryParam("token", "5d6e8b5e8704537e61b5bad9ec99e76e30d4503b0e657f16845cb87a3c88f8b6")
+			.queryParam("name", board_name)
+			.header("Content-Type","application/json")
+		.when().post("/1/boards/")
+		.then().log().all().assertThat().statusCode(200).extract().response().asString();
+		
+		js = new JsonPath(createboardResponse);
+		String url=js.get("shortUrl");
+		boardId= url.split("b/")[1].trim();
+		System.out.println(boardId);
+	}
+	
+	@Test(priority=2)
+	public void getCardList()
+	{
+		RestAssured.baseURI="https://api.trello.com";
+		Response cardListResponse=RestAssured.given()
+			.queryParam("key", "d726239b5f1510d74a1a32bc575f01a2")
+			.queryParam("token", "5d6e8b5e8704537e61b5bad9ec99e76e30d4503b0e657f16845cb87a3c88f8b6")
+		.when().get("/1/boards/xhYXaVbk/lists")
+		.then().log().all().statusCode(200).extract().response();
+		
+//		String res=cardListResponse
+//		List<String> list=res;
+		List<Response> list=Arrays.asList(cardListResponse);
+
+		System.out.println(list);
+//		js = new JsonPath(res);
+//		idOfToDo=js.getString("list[0].id");
+//		System.out.println(idOfToDo);
+	}
+	
+	@Test(priority=3)
+	public void createCard()
+	{
+		RestAssured.baseURI="https://api.trello.com";
+		RestAssured.given()
+			.queryParam("key", "d726239b5f1510d74a1a32bc575f01a2")
+			.queryParam("token", "5d6e8b5e8704537e61b5bad9ec99e76e30d4503b0e657f16845cb87a3c88f8b6")
+			.queryParam("name", cardName)
+			.queryParam("idList", idOfToDo)
+		.when().post("/1/cards")
+		.then().assertThat().statusCode(200).body("name", equalTo(cardName)).extract().response().asString();
+	}
+	
+	@Test(priority=4)
+	public void updateCard()
+	{
+		RestAssured.baseURI="https://api.trello.com";
+		RestAssured.given()
+		.queryParam("key", "d726239b5f1510d74a1a32bc575f01a2")
+		.queryParam("token", "5d6e8b5e8704537e61b5bad9ec99e76e30d4503b0e657f16845cb87a3c88f8b6")
+		.queryParam("idList", idOfToDo)
+		.queryParam("name", updateCardName)
+		.when().post("/1/cards/")
+		.then().assertThat().log().all().statusCode(200).body("name", equalTo(updateCardName)).extract().response().asString();
+	}
+	
+	@Test(priority=5)
+	public void deleteCard()
+	{
+		RestAssured.baseURI="https://api.trello.com";
+		RestAssured.given()
+		.queryParam("key", "d726239b5f1510d74a1a32bc575f01a2")
+		.queryParam("token", "5d6e8b5e8704537e61b5bad9ec99e76e30d4503b0e657f16845cb87a3c88f8b6")
+		.when().delete("/1/cards/"+idOfToDo)
+		.then().assertThat().statusCode(200).log().all();
+		
+		
+	}
+}

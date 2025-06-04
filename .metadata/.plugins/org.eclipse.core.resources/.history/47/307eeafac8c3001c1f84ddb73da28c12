@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package PojoPackage;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+
+/**
+ * @author Admin
+ *
+ */
+public class SampleApi {
+
+	@Test
+	public void getTourist()
+	{
+		RestAssured.baseURI="http://restapi.adequateshop.com";
+		RestAssured.given().queryParam("page", "1")
+		.when().get("/api/Tourist").then().log().all().extract().response().asString();
+	}
+}

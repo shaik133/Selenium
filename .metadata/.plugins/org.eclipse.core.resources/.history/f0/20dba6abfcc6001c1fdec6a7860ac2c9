@@ -1,0 +1,30 @@
+/**
+ * 
+ */
+package resourses;
+
+/**
+ * @author Admin
+ *
+ */
+public class GetPayload {
+
+	
+public static PojoClass_Parent payload = new PojoClass_Parent();
+
+
+public static PojoClass_Parent getpayload()
+{
+	payload.getLocation().setLat(20.33);
+	payload.getLocation().setLng(33.33);
+	payload.setAccuracy(30);
+	payload.setAddress("this is address");
+	payload.setLanguage("English");
+	payload.setName("my name");
+	payload.setPhone_number("9595");
+	payload.setWebsite("http://google.com");
+	payload.getTypes().set(0, "first_type");
+	payload.getTypes().set(1, "second_type");
+	return payload;
+}
+}

@@ -1,0 +1,57 @@
+/**
+ * 
+ */
+package stepDefinations;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+import io.restassured.RestAssured;
+import io.restassured.builder.RequestSpecBuilder;
+import io.restassured.builder.ResponseSpecBuilder;
+import io.restassured.response.Response;
+import io.restassured.specification.RequestSpecification;
+import io.restassured.specification.ResponseSpecification;
+import static org.hamcrest.Matchers.*;
+import static org.junit.Assert.assertEquals;
+
+/**
+ * @author Admin
+ *
+ */
+public class StepDefination {
+
+	RequestSpecification req= (RequestSpecification) new RequestSpecBuilder().setBaseUri("https://rahulshettyacademy.com").addQueryParam("key", "qaclick123").addHeader("Content-type", "application/json").build();
+	ResponseSpecification res = (ResponseSpecification) new ResponseSpecBuilder().expectStatusCode(200).expectContentType("application/json").build();
+	 RequestSpecification request;
+	 Response response;
+	 
+	@Given("user sends key, token and name")
+	public void user_sends_key_token_and_name() throws IOException {
+	    request=RestAssured.given().spec(req).body(new String(Files.readAllBytes(Paths.get("C:\\Users\\Admin\\Documents\\addPlace.json"))));
+	
+	    
+	}
+	@When("user calls api by hitting post request")
+	public void user_calls_api_by_hitting_post_request() {
+	    response=request.when().post("/maps/api/place/add/json");
+	
+	}
+	@Then("user validate success response with status code 200")
+	public void user_validate_success_response_with_status_code() {
+	  assertEquals(response.getStatusCode(),200);
+	  
+	   
+	}
+	@Then("user validate success response with name {string}")
+	public void user_validate_success_response_with_name(String string) {
+	    // Write code here that turns the phrase above into concrete actions
+	   response.then().assertThat().body("name", equalTo(string));
+	}
+	
+}

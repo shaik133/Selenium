@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-26T18:21:10 IST" name="Default suite" finished-at="2022-08-26T18:22:07 IST" duration-ms="57362">
+    <groups>
+    </groups>
+    <test started-at="2022-08-26T18:21:10 IST" name="Default test" finished-at="2022-08-26T18:22:07 IST" duration-ms="57362">
+      <class name="com.cmr.qa.tests.Test4_PimViewMyDetails">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.cmr.qa.tests.Test4_PimViewMyDetails@18df8434]" started-at="2022-08-26T18:21:09 IST" name="beforeSuite" finished-at="2022-08-26T18:21:10 IST" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="log4j()[pri:0, instance:com.cmr.qa.tests.Test4_PimViewMyDetails@18df8434]" started-at="2022-08-26T18:21:10 IST" name="log4j" finished-at="2022-08-26T18:21:10 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log4j -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.cmr.qa.tests.Test4_PimViewMyDetails@18df8434]" started-at="2022-08-26T18:21:10 IST" name="setup" finished-at="2022-08-26T18:21:38 IST" duration-ms="27943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fillPersonalDetails()[pri:1, instance:com.cmr.qa.tests.Test4_PimViewMyDetails@18df8434]" started-at="2022-08-26T18:21:38 IST" name="fillPersonalDetails" finished-at="2022-08-26T18:22:07 IST" duration-ms="29285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillPersonalDetails -->
+      </class> <!-- com.cmr.qa.tests.Test4_PimViewMyDetails -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

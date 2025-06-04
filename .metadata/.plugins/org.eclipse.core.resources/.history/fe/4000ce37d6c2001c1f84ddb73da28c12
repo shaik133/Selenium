@@ -1,0 +1,32 @@
+/**
+ * 
+ */
+package com.api.qa.test;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.path.json.JsonPath;
+
+/**
+ * @author Admin
+ *
+ */
+public class OAutTest {
+
+	
+	
+	@Test
+	public void oAuth()
+	{
+
+		
+		
+		
+// Final Get method to call the info.		
+		RestAssured.given().queryParam("access_token", access_token)
+		.when().get("https://rahulshettyacademy.com/getCourse.php").then().log().all().extract().response().asString();
+	}
+}

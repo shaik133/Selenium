@@ -1,0 +1,77 @@
+package com.cart.tests;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+import org.testng.Assert;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
+
+import com.cart.pages.CartHomePage;
+import com.crm.actions.Action;
+import com.crm.base.page.BasePage;
+
+public class CartHomeTest extends BasePage{
+	CartHomePage homePage;
+	String[] array= {"Brocolli","Brinjal"};
+	List<String> ar=Arrays.asList(array);
+
+	public CartHomeTest() throws IOException {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	
+	@BeforeMethod
+	public void launch() throws IOException {
+		launchBrowser();
+		homePage= new CartHomePage();
+	}
+	
+	
+	@Test
+	public void getTitle() {
+		log.info("Validating the title of the page");
+		String AcualTitle=Action.getTitle();
+		Assert.assertEquals(AcualTitle, prop.getProperty("CartTitle"));
+	}
+	
+	@Test
+	public void ValidateLogo() {
+		log.info("Validating the text of the logo");
+		String logoText=homePage.getText();
+		Assert.assertEquals(logoText, "GREENKART");
+	}
+	
+	@Test
+	public void validateCountOfSearchedProducts() throws InterruptedException {
+		int size=homePage.countSearchProduct("br");
+		Assert.assertEquals(size, 2);
+	}
+	
+	@Test
+	public void ValidateSearchProducts() {
+		ArrayList<String> arr=homePage.matchSearchProducts("br");
+		Assert.assertEquals(arr,ar );
+	}
+	
+	@Test
+	public void addMultipleProductToCart() {
+		homePage.addProducts();
+		String countText=homePage.getItemsCount();
+		log.info("Validating the counts of the item selected and added to cart");
+		Assert.assertEquals(countText, "3");
+	}
+	
+	@Test
+	public void clickProceedCheckBtn() throws InterruptedException, IOException {
+		homePage.addProducts();
+		homePage.clickCheckoutBtn();
+		Thread.sleep(3000);
+		String url=driver.getCurrentUrl();
+		Assert.assertEquals(url, "https://rahulshettyacademy.com/seleniumPractise/#/cart");
+	}
+	
+}

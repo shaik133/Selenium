@@ -1,0 +1,28 @@
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+/**
+ * 
+ */
+
+/**
+ * @author Admin
+ *
+ */
+public class QAClickPopup {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Admin\\Documents\\Selenium\\chromeDriver100version\\chromedriver_win32\\chromedriver.exe");
+		WebDriver driver= new ChromeDriver();
+		
+		driver.get("https://qaclickacademy.com/");
+		driver.manage().window().maximize();
+		
+		
+	}
+
+}

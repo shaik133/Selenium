@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package utility;
+
+/**
+ * @author Admin
+ *
+ */
+public class DataProvid {
+
+	
+	@DataProvider
+	public void getData()
+	{
+		
+	}
+}

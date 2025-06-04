@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package testRunner;
+
+import org.junit.runner.RunWith;
+
+/**
+ * @author Admin
+ *
+ */
+@RunWith(Cucumber.class)
+public class TestRunner {
+
+}

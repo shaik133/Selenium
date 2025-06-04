@@ -1,0 +1,29 @@
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class realtimeExcercise {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+System.setProperty("webdriver.chrome.driver", "C:\\Users\\Admin\\Documents\\Selenium\\chromedriver.exe");
+		
+		//invoke webdriver object
+		
+		WebDriver driver=new ChromeDriver();
+		
+		driver.get("https://www.rahulshettyacademy.com/AutomationPractice/");
+		
+//1. Number of links present in the page.
+	System.out.println(driver.findElements(By.tagName("a")).size());
+	
+//2. Now the requirement is count the number of links present in the footer.
+	//for that create mini driver only active for the footer elements
+	
+	WebElement footerdriver= driver.findElement(By.id("gf-BIG"));
+System.out.println(footerdriver.findElements(By.tagName("a")).size());
+	}
+
+}

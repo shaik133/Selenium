@@ -1,0 +1,50 @@
+/**
+ * 
+ */
+package stepDefinations;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+import io.restassured.RestAssured;
+import io.restassured.builder.RequestSpecBuilder;
+import io.restassured.builder.ResponseSpecBuilder;
+import io.restassured.specification.RequestSpecification;
+import putPayload.PutPayload;
+
+/**
+ * @author Admin
+ *
+ */
+public class StepDefination1 {
+	
+	RequestSpecification req=(RequestSpecification) new RequestSpecBuilder().setBaseUri("https://rahulshettyacademy.com").addQueryParam("key", "qaclick123").addHeader("Content-Type", "application/json");
+	ResponseSpecBuilder res= new ResponseSpecBuilder().expectHeader("Content-Type", "application/json").expectStatusCode(200);
+
+	@Given("user passing update payload to call the api using key")
+	public void user_passing_update_payload_to_call_the_api_using_key()
+	{
+		RestAssured.given().spec(req).body(PutPayload.payload())
+	}
+	
+	@When("Put method is sent")
+	public void Put_method_is_sent()
+	{
+		
+	}
+	
+	@Then("user verifies response having {string} {int}")
+	public void user_verifies_response_having(String status, int code)
+	{
+		
+	}
+	
+	@Then("user verifies response having {string} {string}")
+	public void user_verifies_response_having(String address, String name)
+	{
+		
+	}
+	
+	
+	}
+

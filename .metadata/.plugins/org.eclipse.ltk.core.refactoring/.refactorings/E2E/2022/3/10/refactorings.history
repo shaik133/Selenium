@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Practice.E2E.DataProvider&apos; to &apos;DataProvider1&apos;&#x0D;&#x0A;- Original project: &apos;E2E&apos;&#x0D;&#x0A;- Original element: &apos;Practice.E2E.DataProvider&apos;&#x0D;&#x0A;- Renamed element: &apos;Practice.E2E.DataProvider1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DataProvider&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;Practice.E2E{DataProvider.java[DataProvider" matchStrategy="1" name="DataProvider1" qualified="false" references="true" similarDeclarations="false" stamp="1646484249098" textual="false" version="1.0"/>
+</session>

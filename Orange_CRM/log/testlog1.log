@@ -1,0 +1,637 @@
+2022-08-23 16:11:13,472 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Browser launched
+2022-08-23 16:11:22,928 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Browser launched
+2022-08-23 16:11:32,416 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Browser launched
+2022-08-23 16:11:49,470 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Browser launched
+2022-08-23 18:07:36,585 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:07:49,535 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Varifying launched url
+2022-08-23 18:07:49,625 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:08:04,832 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:08:17,727 [main] INFO com.cmr.qa.tests.Test1_LoginTest - validate the title of the page
+2022-08-23 18:08:17,772 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:08:21,062 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:08:46,251 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Validate logo of the page is visible
+2022-08-23 18:08:46,436 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:08:49,736 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:08:59,496 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-23 18:09:03,658 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:15:50,407 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:15:57,987 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:16:08,791 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:16:27,264 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:16:36,243 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:16:41,849 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:16:49,746 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:16:52,494 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:17:00,814 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:17:04,161 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:17:12,865 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:27:32,884 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:27:39,853 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:27:52,395 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:40:09,347 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:40:33,276 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Varifying launched url
+2022-08-23 18:40:33,342 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:40:41,266 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:40:54,093 [main] INFO com.cmr.qa.tests.Test1_LoginTest - validate the title of the page
+2022-08-23 18:40:54,123 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:41:01,629 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:41:19,617 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Validate logo of the page is visible
+2022-08-23 18:41:21,126 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:41:29,046 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:41:45,250 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-23 18:41:48,898 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:44:58,582 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:45:08,891 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Varifying launched url
+2022-08-23 18:45:08,913 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:45:16,010 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:45:26,097 [main] INFO com.cmr.qa.tests.Test1_LoginTest - validate the title of the page
+2022-08-23 18:45:26,134 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:45:31,869 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:45:50,004 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Validate logo of the page is visible
+2022-08-23 18:45:53,363 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:46:06,796 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:46:15,392 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-23 18:46:19,643 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:54:16,677 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:54:40,903 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Varifying launched url
+2022-08-23 18:54:41,152 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:54:50,280 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:55:01,106 [main] INFO com.cmr.qa.tests.Test1_LoginTest - validate the title of the page
+2022-08-23 18:55:01,141 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:55:07,876 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:55:21,802 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Validate logo of the page is visible
+2022-08-23 18:55:22,945 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:55:28,427 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:55:38,687 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-23 18:55:42,634 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:59:38,382 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 18:59:49,178 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Varifying launched url
+2022-08-23 18:59:49,204 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 18:59:57,515 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 19:00:11,423 [main] INFO com.cmr.qa.tests.Test1_LoginTest - validate the title of the page
+2022-08-23 19:00:11,516 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 19:00:17,466 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 19:00:36,401 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Validate logo of the page is visible
+2022-08-23 19:00:43,058 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 19:00:53,581 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 19:01:08,201 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-23 19:01:17,779 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 19:36:27,523 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 19:36:41,366 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 19:37:12,209 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 19:37:34,515 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 19:38:54,253 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 19:39:09,326 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-23 19:39:18,368 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 19:39:32,655 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 19:39:53,794 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-23 19:39:56,864 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 19:40:35,572 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 19:40:49,416 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-23 19:40:56,798 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-23 19:41:07,421 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-23 19:41:19,963 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-23 19:41:27,904 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 10:54:05,166 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 10:54:14,236 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 10:54:49,587 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 10:55:03,185 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 10:55:10,762 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 10:55:18,436 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 10:55:28,481 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 10:55:39,919 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Varifying launched url
+2022-08-24 10:55:39,939 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 10:55:42,393 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 10:55:54,273 [main] INFO com.cmr.qa.tests.Test1_LoginTest - validate the title of the page
+2022-08-24 10:55:54,298 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 10:55:56,596 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 10:56:07,944 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Validate logo of the page is visible
+2022-08-24 10:56:08,045 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 11:45:08,650 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 11:45:20,005 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 11:45:28,423 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 11:45:35,374 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 11:45:45,041 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 11:45:52,887 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 11:45:56,946 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 11:46:08,849 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 11:46:13,794 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 11:47:47,810 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 11:47:55,770 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 11:48:03,199 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 11:48:05,667 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 11:48:13,172 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 11:48:18,671 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 11:48:21,586 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 11:48:33,990 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 11:48:39,335 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 11:56:15,898 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 11:56:25,499 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 11:56:41,341 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 11:56:55,912 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 11:57:01,634 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 11:57:09,697 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 11:57:16,314 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 11:57:34,783 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 11:57:48,895 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 15:12:03,658 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 15:12:18,200 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 15:14:21,859 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 15:14:32,418 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 15:30:15,459 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 15:30:55,713 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 15:40:26,622 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 15:40:48,794 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 15:42:32,482 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 15:42:46,375 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 15:43:35,937 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 15:44:01,143 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 15:44:27,096 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 15:44:42,106 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 15:45:52,599 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 15:46:15,743 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 15:56:41,437 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 15:56:54,269 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 16:53:27,379 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 16:53:36,332 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 16:53:47,076 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 16:57:02,121 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 16:57:14,981 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 16:57:17,050 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 16:57:26,821 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 16:57:29,020 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:00:26,938 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:00:36,659 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:00:39,012 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:00:51,977 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:00:56,746 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:01:07,149 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:01:09,755 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:02:00,813 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:02:16,587 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:02:19,215 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:02:36,214 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:02:40,062 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:03:00,151 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:03:04,564 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:03:20,022 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:24:55,591 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:25:16,918 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:25:22,369 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:25:46,350 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:25:50,222 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:26:06,518 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:26:10,828 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:26:24,479 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:37:09,396 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:37:23,099 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 17:37:23,165 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:39:09,414 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:39:19,698 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 17:39:19,754 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:40:01,830 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:40:13,145 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 17:40:16,563 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:46:09,952 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:46:20,254 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:49:58,655 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:50:11,389 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:51:05,900 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:53:27,301 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:53:37,357 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Varifying launched url
+2022-08-24 17:53:39,146 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:53:50,158 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:54:05,383 [main] INFO com.cmr.qa.tests.Test1_LoginTest - validate the title of the page
+2022-08-24 17:54:05,418 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:54:08,496 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:54:23,853 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Validate logo of the page is visible
+2022-08-24 17:54:23,972 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:54:26,215 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:54:35,945 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 17:54:39,273 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 17:54:42,292 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 17:54:52,780 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 18:16:18,865 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 18:16:43,138 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Varifying launched url
+2022-08-24 18:16:44,549 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 18:16:51,542 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 18:17:00,567 [main] INFO com.cmr.qa.tests.Test1_LoginTest - validate the title of the page
+2022-08-24 18:17:00,591 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 18:17:08,418 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 18:17:19,295 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 18:17:24,505 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 18:17:27,686 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 18:17:40,460 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 18:24:51,564 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 18:25:08,537 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Varifying launched url
+2022-08-24 18:25:08,563 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 18:25:18,543 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 18:25:32,483 [main] INFO com.cmr.qa.tests.Test1_LoginTest - validate the title of the page
+2022-08-24 18:25:32,509 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 18:25:39,545 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 18:25:57,155 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Validate logo of the page is visible
+2022-08-24 18:25:57,495 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 18:26:03,166 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 18:26:14,150 [main] INFO com.cmr.qa.tests.Test1_LoginTest - Entering the Log in credentials and submit the form
+2022-08-24 18:26:17,468 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 18:26:23,621 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 18:26:43,106 [main] INFO com.cmr.qa.tests.Test1_LoginTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 19:21:48,356 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 19:22:02,105 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 19:23:38,271 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 19:24:05,528 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 19:44:48,325 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 19:44:55,607 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - Entering login credentials
+2022-08-24 19:44:58,676 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - Clicking on the Admin btn
+2022-08-24 19:45:16,768 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - Validating the landing page url
+2022-08-24 19:45:16,973 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-24 20:06:49,983 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-24 20:06:59,860 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-24 20:07:01,226 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-24 20:07:15,824 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-24 20:07:20,833 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Validating the landing page url
+2022-08-24 20:07:20,858 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 13:29:31,466 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 13:29:40,971 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 13:29:43,943 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 13:29:56,159 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 13:30:00,236 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 13:30:13,953 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 13:30:31,316 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 13:30:32,881 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 13:30:41,972 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 13:30:56,007 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 13:37:04,961 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 13:37:33,338 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 13:37:36,791 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 13:38:16,066 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 13:38:31,488 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 13:45:16,629 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 13:45:33,646 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 13:45:35,242 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 13:45:41,566 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 13:45:56,086 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 13:47:05,548 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 13:47:23,590 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 13:47:25,118 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 13:47:32,462 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 13:47:47,682 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 14:04:08,769 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 14:04:23,217 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 14:04:28,421 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 14:04:35,371 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 14:04:55,131 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 15:18:12,602 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 15:18:23,340 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 15:18:34,380 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 15:18:45,874 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 15:18:51,322 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Validating the landing page url
+2022-08-25 15:18:51,396 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 15:18:55,261 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 15:19:17,326 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 15:19:19,808 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 15:19:28,476 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 15:19:51,740 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 15:41:15,748 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 15:41:29,248 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 15:41:40,560 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 15:41:51,492 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 16:14:49,819 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 16:14:57,007 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 16:14:59,279 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 16:15:12,925 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 16:15:19,835 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Selecting the user role from the dropdown
+2022-08-25 16:15:24,217 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Selecting the status of the user
+2022-08-25 16:15:28,551 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - selecting the Employee name
+2022-08-25 16:15:34,973 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering random username
+2022-08-25 16:15:35,141 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering password
+2022-08-25 16:15:35,339 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - confirming password
+2022-08-25 16:15:35,482 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the submit button
+2022-08-25 16:15:35,623 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - validate the toast message
+2022-08-25 16:24:32,009 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 16:24:40,144 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 16:24:41,554 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 16:24:49,605 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 16:24:54,956 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Validating the landing page url
+2022-08-25 16:24:54,994 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 16:25:08,368 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 16:25:31,221 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 16:25:32,596 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 16:25:38,890 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 16:25:43,916 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Selecting the user role from the dropdown
+2022-08-25 16:25:48,194 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Selecting the status of the user
+2022-08-25 16:25:52,430 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - selecting the Employee name
+2022-08-25 16:25:58,916 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering random username
+2022-08-25 16:25:59,183 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering password
+2022-08-25 16:25:59,402 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - confirming password
+2022-08-25 16:25:59,545 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the submit button
+2022-08-25 16:25:59,633 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 16:31:06,647 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 16:31:14,225 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 16:31:16,669 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 16:31:23,164 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 16:31:28,570 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Validating the landing page url
+2022-08-25 16:31:28,599 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 16:31:48,294 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 16:32:06,447 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 16:32:07,806 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 16:32:14,055 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 16:32:18,962 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Selecting the user role from the dropdown
+2022-08-25 16:32:23,436 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Selecting the status of the user
+2022-08-25 16:32:27,647 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - selecting the Employee name
+2022-08-25 16:32:33,522 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering random username
+2022-08-25 16:32:33,673 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering password
+2022-08-25 16:32:33,854 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - confirming password
+2022-08-25 16:32:33,989 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the submit button
+2022-08-25 16:32:36,081 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 16:34:03,014 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 16:34:14,480 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 16:34:16,597 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 16:34:22,106 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 16:34:27,097 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Validating the landing page url
+2022-08-25 16:34:27,114 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 16:34:30,178 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 16:34:39,859 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering login credentials
+2022-08-25 16:34:41,278 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Admin btn
+2022-08-25 16:34:46,528 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the Add btn
+2022-08-25 16:34:51,503 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Selecting the user role from the dropdown
+2022-08-25 16:34:55,809 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Selecting the status of the user
+2022-08-25 16:35:00,015 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - selecting the Employee name
+2022-08-25 16:35:05,941 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering random username
+2022-08-25 16:35:06,136 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Entering password
+2022-08-25 16:35:06,335 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - confirming password
+2022-08-25 16:35:06,470 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - Clicking on the submit button
+2022-08-25 16:35:06,549 [main] INFO com.cmr.qa.tests.Test3_AdminSaveSystemUser - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 17:20:04,166 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 17:20:11,069 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - Entering login credentials
+2022-08-25 17:20:21,201 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 17:32:32,617 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 17:32:44,800 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - Entering login credentials
+2022-08-25 17:32:50,207 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - Clicking on the Admin btn
+2022-08-25 17:33:01,219 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - Validating the landing page url
+2022-08-25 17:33:01,237 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 17:33:04,000 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 17:33:13,429 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - Entering login credentials
+2022-08-25 17:33:18,832 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-25 17:33:21,366 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-25 17:33:32,599 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - Entering login credentials
+2022-08-25 17:33:33,643 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - Clicking on the MyInfo menu button
+2022-08-25 17:33:38,716 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - Validating url
+2022-08-25 17:33:38,729 [main] INFO com.cmr.qa.tests.Test2_EmployeeListTest - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-26 12:33:39,646 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 12:33:49,891 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 12:40:10,173 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 12:40:16,870 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 12:40:23,227 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 12:40:24,470 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 12:40:24,673 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 12:40:24,878 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 12:40:25,009 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 12:40:25,160 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 12:40:25,283 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 12:40:25,405 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 12:40:26,655 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-26 12:42:41,140 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 12:42:54,655 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 12:42:55,540 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 12:43:00,051 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 12:43:00,228 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 12:43:00,391 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 12:43:00,520 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 12:43:00,674 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 12:43:00,791 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 12:43:00,891 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 12:43:02,072 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<< Browser closed>>>>>>>>>>>>>>>>>>>
+2022-08-26 12:44:13,699 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 12:44:23,150 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 12:44:24,071 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 12:44:28,883 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 12:44:29,059 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 12:44:29,280 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 12:44:29,445 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 12:44:29,629 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 12:44:29,778 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 12:44:29,967 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 12:52:52,158 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 12:52:59,838 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 12:53:01,439 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 12:53:07,146 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 12:53:07,272 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 12:53:07,393 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 12:53:07,556 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 12:53:07,710 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 12:53:07,833 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 12:53:07,935 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 13:08:15,409 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 13:08:29,191 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 13:08:38,528 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 13:08:43,816 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 13:08:43,953 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 13:08:44,052 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 13:08:44,172 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 13:08:44,278 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 13:08:44,391 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 13:08:44,498 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 15:07:08,277 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 15:07:40,376 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 15:07:40,805 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 15:07:59,204 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 15:10:41,303 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 15:10:48,890 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 15:10:53,886 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 15:11:16,024 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 15:11:16,050 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Nationality
+2022-08-26 15:13:15,961 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 15:13:23,414 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 15:13:25,722 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 15:13:33,481 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 15:16:18,917 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 15:16:30,056 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 15:16:32,185 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 15:16:41,507 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 15:18:14,060 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 15:18:24,490 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 15:18:26,888 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 15:18:38,582 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 15:30:50,115 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 15:31:04,511 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 15:34:14,991 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 15:34:25,881 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 15:34:30,021 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 15:34:36,343 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 15:34:36,596 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 15:34:36,801 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 15:34:36,909 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 15:34:37,019 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 15:34:37,130 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 15:34:37,248 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 15:37:04,970 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 15:37:58,972 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 15:40:29,438 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 15:40:44,423 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 15:40:56,808 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 15:40:58,668 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 15:40:58,783 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 15:40:58,982 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 15:40:59,144 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 15:40:59,271 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 15:40:59,396 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 15:40:59,588 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 15:42:40,729 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 15:42:54,170 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 15:42:56,401 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 15:43:10,077 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 15:46:21,021 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 15:46:29,947 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 15:46:33,444 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 15:46:48,173 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 15:52:22,434 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 15:52:31,019 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 15:52:33,344 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 15:52:43,404 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 15:53:00,749 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 15:53:00,916 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 15:53:01,058 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 15:53:01,235 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 15:53:01,347 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 15:53:01,508 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 15:55:11,773 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 15:55:22,320 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 15:55:25,536 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 15:55:37,799 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 15:55:46,378 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 15:55:46,573 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 15:55:46,827 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 15:55:47,022 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 15:55:47,144 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 15:55:47,272 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 16:00:07,438 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 16:00:16,645 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 16:00:20,956 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 16:00:43,895 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 16:00:52,208 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 16:00:52,380 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 16:00:52,566 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 16:00:52,757 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 16:00:52,877 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 16:00:53,015 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 16:00:53,163 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Nationality
+2022-08-26 16:01:00,444 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Date of birth
+2022-08-26 16:01:08,347 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Select Gender
+2022-08-26 16:05:45,270 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 16:05:57,900 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 16:06:16,345 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 16:06:27,613 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 16:06:36,160 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 16:06:36,322 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 16:06:36,533 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 16:06:36,700 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 16:06:36,810 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 16:06:36,929 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 16:06:37,061 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Nationality
+2022-08-26 16:06:44,392 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Date of birth
+2022-08-26 16:06:52,297 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Select Gender
+2022-08-26 16:09:05,034 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 16:09:15,529 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 16:09:18,700 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 16:09:23,940 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 16:09:32,228 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 16:09:32,391 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 16:09:32,521 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 16:09:32,680 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 16:09:32,790 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 16:09:32,903 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 16:09:33,027 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Nationality
+2022-08-26 16:09:40,299 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Date of birth
+2022-08-26 16:09:48,242 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Marital staus
+2022-08-26 16:16:17,213 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 16:16:27,743 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 16:16:29,461 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 16:16:36,331 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Marital staus
+2022-08-26 16:16:43,601 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Checking smoker check Box
+2022-08-26 16:18:16,416 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 16:18:31,952 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 16:18:34,156 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 16:18:56,107 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Marital staus
+2022-08-26 16:19:03,428 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Checking smoker check Box
+2022-08-26 16:20:49,008 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 16:20:56,778 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 16:20:57,795 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 16:21:06,738 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Marital staus
+2022-08-26 16:21:14,224 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Blood group
+2022-08-26 16:22:12,509 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 16:22:25,029 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 16:22:25,848 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 16:22:30,943 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Select Gender
+2022-08-26 16:22:34,126 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Marital staus
+2022-08-26 16:22:41,379 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Blood group
+2022-08-26 16:23:21,942 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 16:23:34,751 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 16:23:36,256 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 16:23:41,353 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 16:23:49,644 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 16:23:49,786 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 16:23:49,923 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 16:23:50,084 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 16:23:50,194 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 16:23:50,307 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 16:23:50,429 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Nationality
+2022-08-26 16:23:57,673 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Date of birth
+2022-08-26 16:24:05,620 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Select Gender
+2022-08-26 16:26:47,529 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 16:26:58,706 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 16:27:00,906 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 16:27:06,070 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 16:27:14,416 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 16:27:14,570 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 16:27:14,700 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 16:27:14,867 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 16:27:14,976 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 16:27:15,133 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 16:27:15,251 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Nationality
+2022-08-26 16:27:22,545 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Date of birth
+2022-08-26 16:27:30,506 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Select Gender
+2022-08-26 16:28:19,161 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 16:28:29,427 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 16:28:30,322 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 16:28:35,328 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 16:28:43,483 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 16:28:43,626 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 16:28:43,764 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 16:28:43,937 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 16:28:44,051 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 16:28:44,166 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 16:28:44,288 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Nationality
+2022-08-26 16:28:51,530 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Date of birth
+2022-08-26 16:28:59,536 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Marital staus
+2022-08-26 16:29:52,811 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 16:30:01,613 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 16:30:03,124 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 16:30:08,087 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 16:30:16,476 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 16:30:16,626 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 16:30:16,748 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 16:30:16,918 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 16:30:17,026 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 16:30:17,138 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 16:30:17,258 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Nationality
+2022-08-26 16:30:24,595 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Date of birth
+2022-08-26 16:30:32,498 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Blood group
+2022-08-26 18:19:43,637 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 18:19:51,517 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 18:19:54,991 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 18:20:11,832 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 18:21:19,736 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - <<<<<<<<<<<<<<<<<<<<<<<< Browser launched >>>>>>>>>>>>>>>>>>
+2022-08-26 18:21:25,855 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering login credentials
+2022-08-26 18:21:27,733 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Clicking on the MyInfo menu button
+2022-08-26 18:21:38,623 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting License expiry date
+2022-08-26 18:21:46,993 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering nick name
+2022-08-26 18:21:47,144 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering other id
+2022-08-26 18:21:47,278 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering License number
+2022-08-26 18:21:47,446 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SSN number
+2022-08-26 18:21:47,561 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering SIN number
+2022-08-26 18:21:47,673 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Entering Military service
+2022-08-26 18:21:47,842 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Nationality
+2022-08-26 18:21:55,266 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Date of birth
+2022-08-26 18:22:03,396 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Selecting Blood group
+2022-08-26 18:22:07,681 [main] INFO com.cmr.qa.tests.Test4_PimViewMyDetails - Click on the submit btn

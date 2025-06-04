@@ -1,0 +1,519 @@
+/**
+ * 
+ */
+package com.rsa.qa.actiondriver;
+
+import java.io.File;
+import java.text.SimpleDateFormat;
+import java.time.Duration;
+import java.util.Date;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Set;
+
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.WindowType;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.remote.CapabilityType;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.support.ui.Select;
+
+import com.rsa.qa.base.BasePage;
+
+import freemarker.ext.beans.BooleanModel;
+
+/**
+ * @author Shaik Jafar Sadiq
+ *
+ */
+
+
+
+
+
+
+
+public class Action extends BasePage{
+	
+	
+	/*-------------------Get Title method------*/
+	
+	public static String getTitle()
+	{
+		String Title = null;
+		try
+		{
+			 Title=driver.getTitle();
+			 return Title;
+		}
+		catch(Exception e)
+		{
+			e.getMessage();
+			return null;
+		}
+		
+		finally
+		{
+			if(Title != null)
+			{
+				System.out.println("Title of the page is "+Title);
+			}
+			else
+			{
+				System.out.println("Something went wrong while fetching Title of the page");
+			}
+		}
+		
+	}
+	/*  Take Screenshot method*/
+	public static String takeScreenshot(WebDriver driver, String testName) 
+	{
+		String desitnation = null;
+		String timestamp = new SimpleDateFormat("yyyy.MM.dd.hh.MM.ss").format(new Date());
+		try {
+		TakesScreenshot takeScreeshot = (TakesScreenshot)driver;
+		File src=takeScreeshot.getScreenshotAs(OutputType.FILE);
+		 desitnation = System.getenv("user.dir")+"\\Screenshots\\"+testName+"_"+timestamp+".png";
+		FileUtils.copyFile(src, new File(desitnation));
+		
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		return desitnation;
+		
+	}
+	
+	
+	/*     Select statement    */
+
+	public static boolean select( WebElement ele, String text)
+	{
+		boolean flag=false;
+		try
+		{
+			Select options = new Select(ele);
+			options.selectByVisibleText(text);
+			options.getFirstSelectedOption();	
+			flag=true;
+			return flag;
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+			return flag;
+		}
+		finally
+		{
+			if(flag)
+			{
+				System.out.println(text+" is selected");
+			}
+			else
+			{
+				System.out.println(text+" is not selected");
+			}
+		}
+		
+		
+	}
+	
+
+		
+		
+		
+/*-------------------------------click method--------------*/
+		
+		public static boolean click(WebElement ele)
+		{
+			boolean flag=false;
+			try {
+			ele.click();
+			flag=true;
+			return flag;
+			}
+			
+			catch(Exception e)
+			{
+				e.printStackTrace();
+				return flag;
+			}
+			finally
+			{
+				if (flag)
+				{
+					System.out.println(ele+ " is clicked");
+				}
+				else
+				{
+					System.out.println(ele+ " is  failed to click");
+				}
+			}
+			
+		}
+		
+		
+/*-------------------Element displayed method------------*/		
+		public static boolean isDisplayed(WebElement ele)
+		{
+			boolean flag= false;
+			try {
+				ele.isDisplayed();
+				flag=true;
+				return flag;
+			}
+			catch(Exception e)
+			{
+				e.printStackTrace();
+				return flag;
+			}
+			finally
+			{
+			if (flag)
+			{
+				System.out.println(ele+" is displayed");
+			}
+			else
+			{
+				System.out.println(ele+ " is not displayed");
+			}
+			}
+		}
+
+		/*--------------------------Send keys----------------------*/
+		public static boolean sendKeys(WebElement ele,String text)
+		{
+			boolean flag=false;
+			try
+			{
+			ele.sendKeys(text);
+			flag=true;
+			return flag;
+			}
+			
+			catch(Exception e)
+			{
+				e.printStackTrace();
+				return flag;
+			}
+			finally
+			{
+				if(flag)
+				{
+					System.out.println(text+" sent");
+				}
+				else
+				{
+					System.out.println(text+" is failed to send");
+				}
+			}
+		}
+		
+		
+/*--------------------------------Switch to frame method---------------*/
+		public static boolean switchToFrame(WebElement ele)
+		{
+			boolean flag=false;
+			try {
+				
+				driver.switchTo().frame(ele);
+				flag=true;
+				return flag;
+			}
+			
+			catch(Exception e)
+			{
+				e.printStackTrace();
+				return flag;
+			}
+			finally
+			{
+				if(flag)
+				{
+					System.out.println(ele+" switched to frame");
+				}
+				else
+				{
+					System.out.println(ele+" is failed to switch");
+				}
+			}
+		}
+
+/*-----------------Switch back to default content---------------*/		
+		
+	public static boolean switchToDefaultContent()	
+	{
+		boolean flag=false;
+		try
+		{
+			driver.switchTo().defaultContent();
+			flag=true;
+			return flag;
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+			return flag;
+		}
+		finally
+		{
+			if(flag)
+			{
+				System.out.println("Switched back to default content");
+			}
+			else
+			{
+				System.out.println("Failed to switch back to default content");
+			}
+		}
+		
+	}
+	
+// Dynamic incrementing dropdowm	
+	
+	public static void IncrementDropdown(WebElement ele, WebElement ele1)
+	{
+		for (int i=1; i<=3;i++)
+		{
+			ele.click();
+		}
+		for(int j=0; j<3;j++)
+		{
+			ele1.click();
+		}
+	}
+	
+/*--Implicite wait-----------*/
+	
+	public static void ImplitWait()
+	{
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+	}
+
+/*-------------------Auto Suggest DropDown---------*/
+	
+	public static void autoSuggest(List<WebElement> ele, String text1)
+	{
+		List<WebElement> options = ele;
+		for(WebElement option:options)
+		{
+			
+			if(option.getText().equalsIgnoreCase(text1))
+			{
+				option.click();
+				break;
+			}
+		}
+	}
+	
+/*--------------------Dynamic dropDown-------*/
+	
+public static boolean dynamicDD(WebElement ele, WebElement ele1)
+{
+	boolean flag= false;
+	try
+	{
+		ele.click();
+		ele1.click();
+		flag=true;
+		return flag;
+	}
+	catch(Exception e)
+	{
+		e.printStackTrace();
+		return flag;
+	}
+	finally
+	{
+		if (flag)
+		{
+			System.out.println("From and To cities are selected");
+		}
+		else
+		{
+			System.out.println("Failed to select cities");
+		}
+	}
+}
+
+/*------------------------------ Is Enabled---------------*/
+
+public static boolean isEnabled(WebElement ele)
+{
+	boolean flag=false;
+	try
+	{
+		ele.isEnabled();
+		flag=true;
+		return true;
+	}
+	catch(Exception e)
+	{
+		System.out.println(e.getMessage()+"Element is in disabled condition");
+		return flag;
+	}
+	finally
+	{
+		if(flag)
+		{
+		System.out.println(ele+" is in enabled condition");
+		}
+		else
+		{
+			System.out.println(ele+" is in disabled mode");
+		}
+	}
+	
+}
+
+//Auto Suggest
+
+public static String autoSuggestComplete(List<WebElement> ele, String text)
+{
+
+	try {
+	List<WebElement>	options = ele;
+	for (WebElement option: options)
+	{
+		if (option.getText().equalsIgnoreCase(text))
+		{
+			option.click();
+			break;
+			
+		}
+	}
+	}
+	catch(Exception e)
+	{
+		e.printStackTrace();
+	}
+	return text;
+	
+}
+
+//Select statement
+
+public static boolean select1(WebElement ele, String text)
+{
+	boolean flag=false;
+	try {
+	Select option= new Select(ele);
+	option.selectByVisibleText(text);
+	option.getFirstSelectedOption();
+	flag=true;
+	return flag;
+	}
+	catch(Exception e)
+	{
+		e.printStackTrace();
+		return flag;
+	}
+	finally
+	{
+		if (flag)
+		{
+			System.out.println(text+" is selected");
+		}
+		else
+		{
+			System.out.println(text+" is failed to select");
+		}
+	}
+}
+
+/*-------------------Switch window--------*/
+
+public static void SwitchWindow()
+{
+	Set<String> windows= driver.getWindowHandles();
+	int size =windows.size();
+	
+	Iterator<String> itr= windows.iterator();
+	String mainWindow= itr.next();
+	
+	String childWindow= itr.next();
+	driver.switchTo().window(childWindow);
+}
+
+/*---------------------Switch to new Window Tab-------------*/
+
+public static String switchNewWinndowTab(String url)
+{
+	driver.switchTo().newWindow(WindowType.TAB);
+	Set<String> windows= driver.getWindowHandles();
+Iterator<String> it=	windows.iterator();
+String parentId=it.next();
+String childId= it.next();
+driver.switchTo().window(childId);
+driver.get(url);
+return childId;
+	
+}
+
+/*-------------------- Switch to Alert------------*/
+
+public static boolean SwitchToAlert()
+{
+	Boolean flag=false;
+	
+	try {
+		driver.switchTo().alert().accept();
+		flag=true;
+		return flag;	
+	}
+	catch(Exception e)
+	{
+		e.printStackTrace();
+		return flag;
+	}
+	finally
+	{
+		if(flag)
+		{
+			System.out.println("Swiched to alert");
+		}
+		else
+		{
+			System.out.println("Failed to switch to alert");
+		}
+	}
+	
+	
+}
+
+
+/*-------------Accept insecure http certs--------*/
+
+public void desrired()
+{
+	DesiredCapabilities dc = DesiredCapabilities
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

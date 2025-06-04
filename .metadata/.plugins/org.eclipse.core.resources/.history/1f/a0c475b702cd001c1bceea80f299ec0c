@@ -1,0 +1,29 @@
+/**
+ * 
+ */
+package stepDefinations;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.When;
+
+/**
+ * @author Admin
+ *
+ */
+public class StepDefination {
+
+	@Given("new Book is adding to the library API")
+	public void new_Book_is_adding_to_the_library_API()
+	{
+		
+	}
+	
+	@When("user calls {string} with {string} method")
+	public void user_calls_with_method()
+	{
+		
+	}
+	
+	
+	
+}

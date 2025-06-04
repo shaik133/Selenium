@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package com.atipage.qa.tests;
+
+/**
+ * @author Admin
+ *
+ */
+public class Test1 extends BasePage{
+
+	
+	
+}

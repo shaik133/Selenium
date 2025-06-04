@@ -1,0 +1,30 @@
+/**
+ * 
+ */
+package com.api.qa.test;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.path.json.JsonPath;
+import utility.Body;
+import static org.hamcrest.Matchers.*;
+
+/**
+ * @author Admin
+ *
+ */
+public class LibraryApi {
+
+	@Test
+	public void addBook()
+	{
+		RestAssured.baseURI="http://216.10.245.166";
+	String respose=	RestAssured.given().header("Content-Type","application/json").body(Body.addBookLibraryPayload())
+		.when().post("Library/Addbook.php")
+		.then().log().all().extract().response().asString();
+	
+	JsonPath js= new JsonPath(respose);
+System.out.println(js.getString("ID"));
+	}
+}

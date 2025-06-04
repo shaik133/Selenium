@@ -1,0 +1,58 @@
+package javaIntreviewProblems;
+
+public class minNuInMultiDimensional {
+
+//	public static void main(String[] args) {
+//		// TODO Auto-generated method stub
+//// finding the minimum value in multidimensional array
+//		
+//			int abc[] []= {{5,5,7},{8,4,3},{1,4,3}};
+//			int min = multi(abc);
+//			System.out.println(min);
+//	}
+//	
+//	public static int multi(int abc[][])
+//	{
+//		int min=abc[0][0];
+//		
+//		for (int i=0; i<3;i++)
+//		{
+//			for (int j=0; j<3; j++)
+//			{
+//				if (abc[i][j]<min)
+//				{
+//					min=abc[i][j];
+//				}
+//			}
+//		}
+//		return min;
+//	}
+	
+	//finding maximum value 
+	public static void main(String[] args) {
+//		// TODO Auto-generated method stub
+
+		
+			int abc[] []= {{5,5,7},{8,4,3},{1,4,3}};
+			int max = multi(abc);
+			System.out.println(max);
+	}
+	
+	public static int multi(int abc[][])
+	{
+		int max=abc[0][0];
+		
+		for (int i=0; i<3;i++)
+		{
+			for (int j=0; j<3; j++)
+			{
+				if (abc[i][j]>max)
+				{
+					max=abc[i][j];
+				}
+			}
+		}
+		return max;
+	}
+}
+

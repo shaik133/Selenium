@@ -1,0 +1,40 @@
+/**
+ * 
+ */
+package stepDefinations;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+/**
+ * @author Admin
+ *
+ */
+public class StepDefination {
+
+	@Given("new Book is adding to the library API")
+	public void new_Book_is_adding_to_the_library_API()
+	{
+		System.out.println("this");
+	}
+	
+	@When("user calls {string} with {string} method")
+	public void user_calls_with_method(String api, String method)
+	{
+		System.out.println("this");
+	}
+	
+	@Then("API call should be {Int}")
+	public void API_call_should_be(int code)
+	{
+		System.out.println("this");
+	}
+	
+	@Then("book is successfully added with {string} returning {string}")
+	public void book_is_successfully_added_with_returning(String key, String value)
+	{
+		System.out.println("this");
+	}
+	
+}

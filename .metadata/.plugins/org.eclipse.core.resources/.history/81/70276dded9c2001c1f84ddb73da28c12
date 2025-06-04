@@ -1,0 +1,57 @@
+/**
+ * 
+ */
+package com.api.qa.test;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.path.json.JsonPath;
+
+/**
+ * @author Admin
+ *
+ */
+public class OAutTest {
+
+	
+	
+	@Test
+	public void oAuth() throws InterruptedException
+	{
+
+		
+//		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Admin\\Documents\\Selenium\\chromedriver.exe");
+//		WebDriver driver= new ChromeDriver();
+//		driver.get("https://accounts.google.com/o/oauth2/v2/auth?scope=https://www.googleapis.com/auth/userinfo.email&auth_url=https://accounts.google.com/o/oauth2/v2/auth&client_id=692183103107-p0m7ent2hk7suguv4vq22hjcfhcr43pj.apps.googleusercontent.com&response_type=code&redirect_uri=https://rahulshettyacademy.com/getCourse.php");
+//		driver.findElement(By.id("identifierId")).sendKeys("shaikjafarsadq@gmail.com");
+//		driver.findElement(By.id("identifierId")).sendKeys(Keys.ENTER);
+//		Thread.sleep(3000);
+//		driver.findElement(By.name("password")).sendKeys("jafar@786");
+//		driver.findElement(By.name("password")).sendKeys(Keys.ENTER);
+//		Thread.sleep(3000);
+		String url="https://rahulshettyacademy.com/getCourse.php?code=4%2F0AX4XfWjhMWm9VLFmjjY0--vH5L7tAkXo9Bn1DkndezFTB4RmYcftHOzl-BG0kim35bIW9Q&scope=email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none#";
+		String partialCode=url.split("code=")[1];
+		String code=partialCode.split("&scope")[0];
+		
+//get access token:		
+		String access_tokenRes=RestAssured.given().urlEncodingEnabled(false)
+		.queryParam("code", code)
+		.queryParam("client_id", "692183103107-p0m7ent2hk7suguv4vq22hjcfhcr43pj.apps.googleusercontent.com")
+		.queryParam("client_secret", "erZOWM9g3UtwNRj340YYaK_W")
+		.queryParam("redirect_uri", "https://rahulshettyacademy.com/getCourse.php")
+		.queryParam("grant_type", "Authorization code")
+		.when().post("https://www.googleapis.com/oauth2/v4/token").asString();
+		JsonPath js = new JsonPath(access_tokenRes);
+		String access_code=js.getString("access_token");
+		
+		
+// Final Get method to call the info.		
+		RestAssured.given().queryParam("access_token", access_code)
+		.when().get("https://rahulshettyacademy.com/getCourse.php").then().log().all().extract().response().asString();
+	}
+}

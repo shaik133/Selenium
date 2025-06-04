@@ -1,0 +1,49 @@
+/**
+ * 
+ */
+package com.api.qa.test;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.path.json.JsonPath;
+import junit.framework.Assert;
+import utility.Body;
+
+/**
+ * @author Admin
+ *
+ */
+public class ApiTest {
+
+	
+	@Test
+	public void test()
+	{
+		
+		String expectedAddress= "70 Summer walk, USA";
+		//post
+		RestAssured.baseURI="https://rahulshettyacademy.com";
+		String response=RestAssured.given().queryParam("key", "qaclick123").header("Content-Type","application/json").body(Body.addPlaceBody())
+		.when().post("/maps/api/place/add/json")
+		.then().log().all().assertThat().statusCode(200).extract().response().asString();
+		
+		JsonPath js = new JsonPath(response);
+		String place_id= js.getString("place_id");
+		
+		//put
+		String putResponse=RestAssured.given().queryParam("key", "qaclick123").header("Content-Type","application/json")
+		.body("{\r\n"
+				+ "\"place_id\":\""+place_id+"\",\r\n"
+				+ "\"address\":\"70 Summer walk, USA\",\r\n"
+				+ "\"key\":\"qaclick123\"\r\n"
+				+ "}\r\n"
+				+ "")
+		.when().put("/maps/api/place/update/json")
+		.then().log().all().statusCode(200).extract().response().asString();
+		JsonPath js1 = new JsonPath(putResponse);
+		String actualAddress=js1.getString("address");
+//		Assert.assertEquals(actualAddress, expectedAddress);
+		
+	}
+}

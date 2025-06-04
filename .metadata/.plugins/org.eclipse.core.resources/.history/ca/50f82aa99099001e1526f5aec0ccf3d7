@@ -1,0 +1,27 @@
+package com.test;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import io.restassured.RestAssured;
+import io.restassured.path.json.JsonPath;
+import testData.AddBookBody;
+
+import static io.restassured.RestAssured.*;
+public class Library {
+
+	
+	
+	@Test
+	public void addPlace() {
+		
+		RestAssured.baseURI="http://216.10.245.166";
+		String response=given().body(AddBookBody.addBookBody(AddBookBody.randomString(5),AddBookBody.randomString(5))).when().post("/Library/Addbook.php")
+		.then().assertThat().statusCode(200).extract().response().toString();
+		System.out.println(response);
+		JsonPath js= new JsonPath(response);
+		System.out.println(js);
+//		Assert.assertEquals(message, "successfully added");
+		
+	}
+	
+}

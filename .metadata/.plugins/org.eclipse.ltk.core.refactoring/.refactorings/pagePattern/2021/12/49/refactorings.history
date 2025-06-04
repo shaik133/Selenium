@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;rediffsearchPage.java&apos; to &apos;pagePattern/src/ObjectRepository&apos;&#x0D;&#x0A;- Original project: &apos;pagePattern&apos;&#x0D;&#x0A;- Destination element: &apos;pagePattern/src/ObjectRepository&apos;&#x0D;&#x0A;- Original element: &apos;ObjectRepository.rediffsearchPage.java&apos;" description="Copy compilation unit" destination="/src&lt;ObjectRepository" element1="/src&lt;ObjectRepository{rediffsearchPage.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1638355377907" units="1" version="1.0"/>
+</session>

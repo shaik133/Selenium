@@ -1,0 +1,13 @@
+package com.api.qa.test;
+
+import io.restassured.RestAssured;
+import utility.Body;
+
+public class Test1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

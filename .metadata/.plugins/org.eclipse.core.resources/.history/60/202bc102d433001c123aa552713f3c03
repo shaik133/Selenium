@@ -1,0 +1,30 @@
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public class framesDragDrop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+System.setProperty("webdriver.chrome.driver", "C:\\Users\\Admin\\Documents\\Selenium\\chromedriver.exe");
+		
+		//invoke webdriver object
+		
+		WebDriver driver=new ChromeDriver();
+		driver.get("https://jqueryui.com/droppable/");
+		driver.switchTo().frame(driver.findElement(By.cssSelector("iframe.demo-frame")));
+		WebDriverWait w= new WebDriverWait(driver,5);
+		w.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("div.ui-widget-header.ui-droppable")));
+		Actions a= new Actions(driver);
+		WebElement source = driver.findElement(By.id("draggable"));
+		WebElement destination= driver.findElement(By.cssSelector("div.ui-widget-header.ui-droppable"));
+		a.dragAndDrop(source, destination);
+		
+	}
+
+}

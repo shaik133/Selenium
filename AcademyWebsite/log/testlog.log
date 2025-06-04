@@ -1,0 +1,59 @@
+2022-04-15 18:19:40,653 - com.academy.qa.tests.AcademyIndexTest -INFO - Validating logo is displayed
+2022-04-15 18:22:36,669 - com.academy.qa.tests.AcademyIndexTest -INFO - Validating logo is displayed
+2022-04-15 20:51:52,749 - com.academy.qa.tests.LoginPageTest -INFO - Entering email address
+2022-04-15 20:51:53,295 - com.academy.qa.tests.LoginPageTest -INFO - Entering password
+2022-04-15 20:51:53,800 - com.academy.qa.tests.LoginPageTest -INFO - submitting login btn
+2022-04-15 20:52:33,562 - com.academy.qa.tests.LoginPageTest -INFO - Entering email address
+2022-04-15 20:52:33,936 - com.academy.qa.tests.LoginPageTest -INFO - Entering password
+2022-04-15 20:52:34,307 - com.academy.qa.tests.LoginPageTest -INFO - submitting login btn
+2022-04-15 20:53:16,173 - com.academy.qa.tests.LoginPageTest -INFO - Entering email address
+2022-04-15 20:53:16,459 - com.academy.qa.tests.LoginPageTest -INFO - Entering password
+2022-04-15 20:53:16,787 - com.academy.qa.tests.LoginPageTest -INFO - submitting login btn
+2022-04-15 20:53:40,526 - com.academy.qa.tests.LoginPageTest -INFO - Entering email address
+2022-04-15 20:53:40,721 - com.academy.qa.tests.LoginPageTest -INFO - Entering password
+2022-04-15 20:53:40,894 - com.academy.qa.tests.LoginPageTest -INFO - submitting login btn
+2022-04-15 21:00:41,047 - com.academy.qa.tests.LoginPageTest -INFO - Entering email address
+2022-04-15 21:00:41,473 - com.academy.qa.tests.LoginPageTest -INFO - Entering password
+2022-04-15 21:00:41,829 - com.academy.qa.tests.LoginPageTest -INFO - submitting login btn
+2022-04-15 21:02:03,066 - com.academy.qa.tests.LoginPageTest -INFO - Entering email address
+2022-04-15 21:02:03,484 - com.academy.qa.tests.LoginPageTest -INFO - Entering password
+2022-04-15 21:02:03,899 - com.academy.qa.tests.LoginPageTest -INFO - submitting login btn
+2022-04-15 21:03:03,784 - com.academy.qa.tests.LoginPageTest -INFO - Entering email address
+2022-04-15 21:03:04,170 - com.academy.qa.tests.LoginPageTest -INFO - Entering password
+2022-04-15 21:03:04,543 - com.academy.qa.tests.LoginPageTest -INFO - submitting login btn
+2022-04-15 21:04:29,739 - com.academy.qa.tests.LoginPageTest -INFO - Entering email address
+2022-04-15 21:04:30,143 - com.academy.qa.tests.LoginPageTest -INFO - Entering password
+2022-04-15 21:04:30,515 - com.academy.qa.tests.LoginPageTest -INFO - submitting login btn
+2022-04-15 21:22:58,465 - com.academy.qa.tests.LoginPageTest -INFO - Entering email address
+2022-04-15 21:22:59,024 - com.academy.qa.tests.LoginPageTest -INFO - Entering password
+2022-04-15 21:22:59,446 - com.academy.qa.tests.LoginPageTest -INFO - submitting login btn
+2022-04-15 21:25:12,433 - com.academy.qa.tests.LoginPageTest -INFO - Entering email address
+2022-04-15 21:25:12,976 - com.academy.qa.tests.LoginPageTest -INFO - Entering password
+2022-04-15 21:25:13,363 - com.academy.qa.tests.LoginPageTest -INFO - submitting login btn
+2022-04-15 21:25:42,498 - com.academy.qa.tests.LoginPageTest -INFO - Entering email address
+2022-04-15 21:25:42,785 - com.academy.qa.tests.LoginPageTest -INFO - Entering password
+2022-04-15 21:25:43,079 - com.academy.qa.tests.LoginPageTest -INFO - submitting login btn
+2022-04-15 21:26:08,285 - com.academy.qa.tests.LoginPageTest -INFO - Entering email address
+2022-04-15 21:26:08,661 - com.academy.qa.tests.LoginPageTest -INFO - Entering password
+2022-04-15 21:26:09,019 - com.academy.qa.tests.LoginPageTest -INFO - submitting login btn
+2022-04-17 11:23:33,440 - com.academy.qa.tests.AcademyHomePageTest -INFO - Browser is launching
+2022-04-17 11:25:05,145 - com.academy.qa.tests.AcademyHomePageTest -INFO - Browser is launching
+2022-04-17 11:25:42,092 - com.academy.qa.tests.AcademyHomePageTest -INFO - Browser is launching
+2022-04-17 11:26:10,640 - com.academy.qa.tests.AcademyHomePageTest -INFO - Browser is launching
+2022-04-17 11:47:27,426 - com.academy.qa.tests.AcademyHomePageTest -INFO - Browser is launching
+2022-04-17 11:51:22,699 - com.academy.qa.tests.AcademyHomePageTest -INFO - Browser is launching
+2022-04-17 11:57:34,903 - com.academy.qa.tests.AcademyHomePageTest -INFO - Browser is launching
+2022-04-17 11:58:56,931 - com.academy.qa.tests.AcademyHomePageTest -INFO - Browser is launching
+2022-04-17 12:19:35,643 - com.academy.qa.tests.AcademyHomePageTest -INFO - logging in to the Academy homepage
+2022-04-17 12:23:01,314 - com.academy.qa.tests.AcademyHomePageTest -INFO - logging in to the Academy homepage
+2022-04-17 12:24:22,046 - com.academy.qa.tests.AcademyHomePageTest -INFO - logging in to the Academy homepage
+2022-04-17 12:27:52,207 - com.academy.qa.tests.AcademyHomePageTest -INFO - logging in to the Academy homepage
+2022-04-17 12:27:53,511 - com.academy.qa.tests.AcademyHomePageTest -INFO - academyHomePage is logged in
+2022-04-17 12:27:53,513 - com.academy.qa.tests.AcademyHomePageTest -INFO - navigating to practice page by clicking on the practice btn
+2022-04-17 12:38:20,338 - com.academy.qa.tests.AcademyHomePageTest -INFO - logging in to the Academy homepage
+2022-04-17 12:38:21,230 - com.academy.qa.tests.AcademyHomePageTest -INFO - academyHomePage is logged in
+2022-04-17 12:38:21,231 - com.academy.qa.tests.AcademyHomePageTest -INFO - navigating to practice page by clicking on the practice btn
+2022-04-17 12:45:01,416 - com.academy.qa.tests.AcademyHomePageTest -INFO - logging in to the Academy homepage
+2022-04-17 12:45:02,479 - com.academy.qa.tests.AcademyHomePageTest -INFO - academyHomePage is logged in
+2022-04-17 12:45:02,480 - com.academy.qa.tests.AcademyHomePageTest -INFO - navigating to practice page by clicking on the practice btn
+2022-04-17 13:22:28,296 - com.academy.qa.tests.PracticePageTest -INFO - Submitting details in forms

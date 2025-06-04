@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.api.qa.test;
+
+
+
+/**
+ * @author Admin
+ *
+ */
+public class ApiTest {
+
+	
+	@Test
+	public void test()
+	{
+		
+	}
+}

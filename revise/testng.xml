@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testngPractice.revise.qaLoginPage"/>
+      <class name="testngPractice.revise.qaHomeTest"/>
+      <class name="testngPractice.revise.qainsideLogin"/>
+      <class name="testngPractice.revise.loginPage"/>
+      <class name="testngPractice.revise.test1"/>
+      <class name="testngPractice.revise.indexTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
